@@ -1,0 +1,4 @@
+- GitHub Desktop - https://desktop.github.com/
+- Obdisidian Vault - https://obsidian.md/
+	- Git tutorial : [obsidian-git-tut-windows/README.md at main · gitobsidiantutorial/obsidian-git-tut-windows](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md)
+	- Obsidian-git plugin : https://github.com/denolehov/obsidian-git/wiki/Installation
