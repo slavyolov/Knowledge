@@ -12,3 +12,5 @@
 	- https://www.statworx.com/en/content-hub/blog/food-for-regression-using-sales-data-to-identify-price-elasticity/
 	- https://medium.com/geekculture/price-elasticity-of-demand-using-linear-regression-in-python-part-2-8adb654328e7
 	- New row
+
+#LineareRegression 

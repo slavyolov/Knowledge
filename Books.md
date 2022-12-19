@@ -1,2 +1,0 @@
-- An Introduction to Statistical Learning with Applications in R Second Edition : https://hastie.su.domains/ISLR2/ISLRv2_website.pdf
-- Y ≈ β0 + β1X
