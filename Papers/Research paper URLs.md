@@ -1,0 +1,2 @@
+- Handwritten Optical Character Recognition (OCR): A Comprehensive Systematic Literature Review (SLR) https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9151144
+- Intelligent Document Processing -- Methods and Tools in the real world https://www.researchgate.net/publication/357417608_Intelligent_Document_Processing_--_Methods_and_Tools_in_the_real_world
