@@ -1,0 +1,4 @@
+- How to Estimate ROI for AI and ML Projects : https://www.phdata.io/blog/how-to-estimate-roi-for-ai-ml-projects/
+- HOW TO SUCCEED IN DATA SCIENCE PROJECTS INDUSTRIALIZATION ? https://management-datascience.org/articles/4717/?cookie-state-change=1672613296072
+- https://www.altexsoft.com/blog/business/how-to-estimate-roi-and-costs-for-machine-learning-and-data-science-projects/
+- 
