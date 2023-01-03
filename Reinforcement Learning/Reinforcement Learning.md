@@ -58,10 +58,32 @@ Courses
 		- What happens next depends on the history :
 			- the agent selects actions
 			- the environment selects observations/rewards 
-		- **State** 💥
-
-
-
+		- **State** 💥is the information used to determine what happens next
+			- formaly, **state💥**  is a function of the history :
+				- $S_t = f(H_t)$
+				- For example, it could be : 
+					- look at the last observation
+					- or look at the last four observations (what is is done in Atari)
+			- **environment state** $S_t^e$ is the environment private representatiion
+				- i.e. whatever data the environment uses to pick the next observation/reward
+				- the environment state is not usually visible to the agent 🤖
+				- even if $S_t^e$ is visible it may contain irrelevant information
+			- **agent state**  $S_t^a$ is the agent's internal representation
+				- i.e. whatever information the agent uses to pick the next action
+				- i.e. it is the information used by reinforcement learning algorithms
+				- it can be any function of the history:
+					- $S_t^a = f(H_t)$
+			- **information state (a.k.a Markov state)** contains all useful information from the history
+				- 📝A state $S_t$ is Markov if an only if :
+					- $P[S_{t+1}\;\;|\;\;S_t] = P[S_{t+1}\;\;|\;\;S_1, S_2, ..., S_t]$
+				- "The future is independent of the past given the present"
+					- $H_{1:t} \rightarrow S_t \rightarrow H_{t+1:\infty}$
+				- once the state is known, the history may be thrown away
+				- the state is sufficient statistic of the the future
+				- Example : helicopter 
+					- Markov state - curent position, velocity, angular velocity, angular position of the helicopter, wind speed and other. If you know all this things NOW it does not matter for the next movement of the helicopter what was the position of the helicopter 10 minutes ago
+					- In contrast, if you have imperfect state (you just have the position but not the velocity). Now where the helicopter is it does not fully determine where the helicopter will be next and you have to consider the history to understand what is the velocity and the momentum of the helicopter. 
+				- The **environment state** $S_t^e$ is Markov
 
 
 
