@@ -169,7 +169,8 @@ Author : David Silver⭐
 
 
 
-
+https://people.cs.umass.edu/~barto/courses/cs687/Chapter%201.pdf
+https://github.com/agrawal-rohit/tic-tac-toe-bot
 
 
 
