@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "uncertaincty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,6 +207,7 @@
   },
   "active": "33e4ba052c73fa10",
   "lastOpenFiles": [
+    "Residuals.md",
     "Linear Regression.md",
     "Price Elasticity.md",
     "Reinforcement Learning/Reinforcement Learning.md",
@@ -213,7 +215,6 @@
     "Papers/Research paper URLs.md",
     "Papers/Intelligent Document Processing -- Methods and Tools in the real world.pdf",
     "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf",
-    "Residuals.md",
     "Train and test splits.md",
     "Untitled.md"
   ]

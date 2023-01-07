@@ -1,8 +1,10 @@
-Books
-- Reinforcement Learning: An Introduction Second edition, in progress Richard S. Sutton and Andrew G. Barto c 2014, 2015 : https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
+Books:
+- Reinforcement Learning: An Introduction Richard S. Sutton and Andrew G. Barto c 2014, 2015 : https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
+- Reinforcement Learning An Introduction second edition Richard S. Sutton and Andrew G. Barto https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf
 - Algorithms for Reinforcement Learning :  https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf
-Course : https://www.davidsilver.uk/teaching/
-Author : David Silver⭐
+-
+Courses :
+	- Author : David Silver⭐ https://www.davidsilver.uk/teaching/
 
 - lecture 1 : https://www.youtube.com/watch?v=2pWv7GOvuf0
 	- What makes reinforcement learning different from other machine learning paradigms  ?
@@ -166,6 +168,62 @@ Author : David Silver⭐
 			- Control: optimise the future 
 				- Find the best policy
 			- typically, we have to solve the prediction problem in order to solve the control problem 
+- lecture 2 : 
+	- video : https://www.youtube.com/watch?v=lfHX2hHRMVQ
+	- slides : https://www.davidsilver.uk/wp-content/uploads/2020/03/MDP.pdf
+	- State Transition Matrix
+		- For a Markov state s and successor state s 0 , the state transition probability is defined by : $Pss^\prime = P[S_{t+1} = s^\prime \;\;|\;\; S_t = s]$
+		- State transition matrix $P$  defines transition probabilities from all states $s$  to all successor states $s^\prime$ 
+		- ![[state_transition_matrix.png]]
+		- where each row of the matrix sums to 1.
+		- if we start at $P_{11}$, then by this matrix we get the probability to land in $P_{12}$, $P_{13}$ and so on
+			- the matrix tells from any state how likely I am about to end in other state
+	- **Markov Process**
+		- A Markov process is a memoryless random process, i.e. a sequence of random states S1, S2, ... with the Markov property.
+		- A Markov Process (or Markov Chain) is a tuple $<S,P>$  
+			- S is a (finite) set of states 
+			- P is a **state transition probability matrix**
+				- $Pss^\prime = P[S_{t+1} = s^\prime \;\;|\;\; S_t = s]$
+		- See the examples of the markov chain (process) from there : https://youtu.be/lfHX2hHRMVQ?t=450
+	- **Markov Reward Process (MRP)**
+		- A Markov reward process is a Markov chain with values
+			- S is a (finite) set of states 
+			- P is a **state transition probability matrix**
+				- $Pss^\prime = P[S_{t+1} = s^\prime \;\;|\;\; S_t = s]$
+			- $R$ is a rewarded function, $R_s = E[R_{t+1}\;|\; S_t = s]$ 
+			- γ (gamma) is a discount factor, γ ∈ [0, 1]
+			- ![[example_students_markov_reward_process.png]]
+		- Return
+			- The return Gt is the total discounted reward from time-step t. 
+				- ![[return_Gt.png]]
+			- The discount γ ∈ [0, 1] is the present value of future rewards 
+			- The value of receiving reward R after k + 1 time-steps is $γ^kR$.
+			- This values immediate reward above delayed reward. 
+				- γ close to 0 leads to ”myopic” evaluation 
+				- γ close to 1 leads to ”far-sighted” evaluation
+				- a γ (gamma) close to 0 indicates preference to get reward now while reward close to 1 means to get it later
+		- discount factor (Most Markov reward and decision processes are discounted. Why?)
+			- Mathematically convenient to discount rewards 
+			- Avoids infinite returns in cyclic Markov processes 
+			- Uncertainty about the future may not be fully represented 
+			- If the reward is financial, immediate rewards may earn more interest than delayed rewards 
+			- Animal/human behaviour shows preference for immediate reward 
+			- It is sometimes possible to use undiscounted Markov reward processes (i.e. γ = 1), e.g. if all sequences terminate.
+		- Value function
+			- The value function v(s) gives the long-term value of state $s$
+			- The state value function v(s) of an MRP is the expected return starting from state s is : $v(s) = E [Gt\; |\; St = s]$
+			- ![[example_MRP_returns.png]]
+		- Bellman equation
+			- The Bellman equation is a linear equation
+			- ![[bellman_equation.png]]
+			- Direct solution only possible for small MRPs 
+			- There are many iterative methods for large MRPs, e.g. 
+				- Dynamic programming 
+				- Monte-Carlo evaluation 
+				- Temporal-Difference learning
+
+DOTUUK : https://youtu.be/lfHX2hHRMVQ?t=2580
+
 
 
 
