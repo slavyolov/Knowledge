@@ -103,7 +103,7 @@ Courses :
 		- Formally this is a partially observable Markov decision process (POMDP)
 		- Agent must construct its own state representation $S^a_t$ , options to do so are :
 			- Complete history (a.k.a. naive approach): $S^a_t = H_t$ 
-			- Beliefs of environment state (a.k.a. bayes): $S^a_t = (P[S^e_t = s^1 ], ..., P[S^e_t = ^ n])$
+			- Beliefs of environment state (a.k.a. bayes): $S^a_t = (P[S^e_t = s^1 ], ..., P[S^e_t = s^n])$
 			- Recurrent neural network: $S^a_t = σ(S^a_{t-1}W_s + O_tW_o )$
 	- Inside an RL agent 
 		- An RL agent may include one or more of these components: 
