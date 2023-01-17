@@ -124,9 +124,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "626120fe83cffa08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning/Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -252,17 +264,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef7a1b8d682e0785",
+  "active": "626120fe83cffa08",
   "lastOpenFiles": [
+    "Ideas.md",
+    "Reinforcement Learning/Reinforcement Learning.md",
+    "VIF.md",
     "SHAP plots.md",
     "Cross-validation.md",
-    "VIF.md",
     "Untitled.canvas",
     "Train and test splits.md",
     "Pasted image 20230108101517.png",
     "Pasted image 20230108095923.png",
-    "Pasted image 20230104011602.png",
-    "Pasted image 20230108095700.png",
-    "Python libraries.md"
+    "Pasted image 20230104011602.png"
   ]
 }
