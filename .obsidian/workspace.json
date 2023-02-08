@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Calendar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,15 +172,15 @@
   },
   "active": "c53c1c4ccd0797b3",
   "lastOpenFiles": [
+    "Linear Regression.md",
+    "Timeseries/Takeaways.md",
     "EDA/Pandas Profiling.md",
     "Python libraries.md",
-    "Timeseries/Takeaways.md",
     "Assesment of AI (ML) application.md",
     "Own content/Masters AI/NLP/NLP_sentiment_analysis.md",
     "Own content/Masters AI/Скоринг модели/Scoring models.md",
     "Own content/Masters AI/Икономика на ИИ/Проект икономика на ИИ_Слав Йолов.pdf",
     "Own content/Masters AI/NLP/NLP Project Documentation.pdf",
-    "Own content/Guest Lectures.md",
-    "NLP/Sofia University slides/6. Collocation Extraction with PMI.pdf"
+    "Own content/Guest Lectures.md"
   ]
 }

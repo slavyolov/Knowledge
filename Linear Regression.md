@@ -18,6 +18,9 @@
 - http://r-statistics.co/Assumptions-of-Linear-Regression.html
 - https://godatadrive.com/blog/basic-guide-to-test-assumptions-of-linear-regression-in-r
 
+# Hints : before training the model :
+- Check if the dependent (target) and independent (continues features) are normally distributed https://towardsdatascience.com/is-normal-distribution-necessary-in-regression-how-to-track-and-fix-it-494105bc50dd
+- 
 
 
 ### Residuals
