@@ -1,0 +1,3 @@
+- Boxplot can be used to display seasonality
+- Guides :
+	- https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc443.htm

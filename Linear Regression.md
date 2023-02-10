@@ -64,7 +64,11 @@ tags:
 Status : 
 #🌲
 Tags:
-[[Linear Regression]] - [[VIF]]
+
+#AIC
+
+[[Linear Regression]] - [[VIF]] - 
+
 
 # Terminal
 

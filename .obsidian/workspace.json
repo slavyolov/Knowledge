@@ -25,7 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDA/Pandas Profiling.md",
+                "file": "Timeseries/Takeaways.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11c2c18f48b6f1cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeseries/SARIMA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d6c007b321d0cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeseries/Stationarity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94fff65ca97390fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeseries/Seasonality.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeseries/Takeaways.md",
+                "file": "Linear Regression.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Calendar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeseries/Takeaways.md",
+                "file": "Timeseries/Seasonality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeseries/Takeaways.md",
+                "file": "Timeseries/Seasonality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,11 +186,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeseries/Takeaways.md"
+                "file": "Timeseries/Seasonality.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,17 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c53c1c4ccd0797b3",
+  "active": "94fff65ca97390fa",
   "lastOpenFiles": [
-    "Linear Regression.md",
+    "Timeseries/Stationarity.md",
+    "Timeseries/SARIMA.md",
     "Timeseries/Takeaways.md",
+    "2023-02-09.md",
+    "Prediction error estimators.md",
+    "Linear Regression.md",
+    "AIC.md",
     "EDA/Pandas Profiling.md",
     "Python libraries.md",
-    "Assesment of AI (ML) application.md",
-    "Own content/Masters AI/NLP/NLP_sentiment_analysis.md",
-    "Own content/Masters AI/Скоринг модели/Scoring models.md",
-    "Own content/Masters AI/Икономика на ИИ/Проект икономика на ИИ_Слав Йолов.pdf",
-    "Own content/Masters AI/NLP/NLP Project Documentation.pdf",
-    "Own content/Guest Lectures.md"
+    "Information Entropy and Information gain and.md"
   ]
 }
