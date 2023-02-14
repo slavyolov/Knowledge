@@ -61,19 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeseries/Seasonality.md",
+                "file": "Reinforcement Learning/Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c53c1c4ccd0797b3",
+            "id": "053ffd1073ef6a1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Regression.md",
+                "file": "Reinforcement Learning/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeseries/Seasonality.md",
+                "file": "Reinforcement Learning/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeseries/Seasonality.md",
+                "file": "Reinforcement Learning/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeseries/Seasonality.md"
+                "file": "Reinforcement Learning/Resources.md"
               }
             }
           }
@@ -209,15 +209,15 @@
   },
   "active": "94fff65ca97390fa",
   "lastOpenFiles": [
-    "Timeseries/Stationarity.md",
-    "Timeseries/SARIMA.md",
-    "Timeseries/Takeaways.md",
-    "2023-02-09.md",
-    "Prediction error estimators.md",
+    "Reinforcement Learning/Reinforcement Learning.md",
+    "Reinforcement Learning/Resources.md",
+    "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf",
     "Linear Regression.md",
-    "AIC.md",
-    "EDA/Pandas Profiling.md",
     "Python libraries.md",
-    "Information Entropy and Information gain and.md"
+    "Timeseries/Stationarity.md",
+    "Price Elasticity.md",
+    "Prediction error estimators.md",
+    "Timeseries/Seasonality.md",
+    "Timeseries/SARIMA.md"
   ]
 }
