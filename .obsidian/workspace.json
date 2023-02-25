@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c374af5eb4fdb881",
+            "id": "f394794b44b01ae2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python libraries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a371986e9a3df96f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeseries/Takeaways.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11c2c18f48b6f1cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeseries/SARIMA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d6c007b321d0cbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeseries/Stationarity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94fff65ca97390fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning/Resources.md",
+                "file": "Own content/Guest Lectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Resources.md",
+                "file": "Own content/Guest Lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Resources.md",
+                "file": "Own content/Guest Lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Resources.md"
+                "file": "Own content/Guest Lectures.md"
               }
             }
           }
@@ -207,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94fff65ca97390fa",
+  "active": "4e4d3e8adf315f4e",
   "lastOpenFiles": [
-    "Reinforcement Learning/Reinforcement Learning.md",
+    "Own content/Masters AI/Основи на ИИ/Reinforcement learning.pdf",
+    "Own content/Masters AI/Машинно самообучение/Code Repository.md",
+    "Own content/Masters AI/Скоринг модели/Scoring models.md",
+    "Own content/Masters AI/NLP/NLP_sentiment_analysis.md",
     "Reinforcement Learning/Resources.md",
+    "Reinforcement Learning/Reinforcement Learning.md",
     "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf",
     "Linear Regression.md",
     "Python libraries.md",
-    "Timeseries/Stationarity.md",
-    "Price Elasticity.md",
-    "Prediction error estimators.md",
-    "Timeseries/Seasonality.md",
-    "Timeseries/SARIMA.md"
+    "Timeseries/Stationarity.md"
   ]
 }
