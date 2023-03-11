@@ -71,6 +71,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Neural Networks/SU lectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "001f9f894a12261b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Neural Networks/Guides.md",
                 "mode": "source",
                 "source": false
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Softmax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +136,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,11 +218,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8765f49f0f5b74df",
+  "active": "001f9f894a12261b",
   "lastOpenFiles": [
-    "Neural Networks/SU project - Credit card fraud dataset.md",
+    "Softmax.md",
+    "Timeseries/Stationarity.md",
     "Neural Networks/Guides.md",
+    "Untitled 1",
+    "Untitled",
+    "ITIL.md",
     "Neural Networks/SU lectures.md",
+    "Neural Networks/SU project - Credit card fraud dataset.md",
     "Neural Networks/SU lectures/Untitled.md",
     "Neural Networks/SU lectures",
     "Neural Networks",
@@ -221,7 +239,6 @@
     "Reinforcement Learning/Reinforcement Learning.md",
     "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf",
     "Linear Regression.md",
-    "Python libraries.md",
-    "Timeseries/Stationarity.md"
+    "Python libraries.md"
   ]
 }
