@@ -1,0 +1,2 @@
+- https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
+- https://jalammar.github.io/feedforward-neural-networks-visual-interactive/

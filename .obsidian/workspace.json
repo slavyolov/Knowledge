@@ -30,8 +30,55 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01fe82343bdf9c17",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
+            "id": "1f539e1456a28a90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Networks/SU lectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e5b3e694660ac97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Networks/SU project - Credit card fraud dataset.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8765f49f0f5b74df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Networks/Guides.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Own content/Guest Lectures.md",
+                "file": "Neural Networks/Guides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Own content/Guest Lectures.md",
+                "file": "Neural Networks/Guides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Own content/Guest Lectures.md"
+                "file": "Neural Networks/Guides.md"
               }
             }
           }
@@ -158,8 +205,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e4d3e8adf315f4e",
+  "active": "8765f49f0f5b74df",
   "lastOpenFiles": [
+    "Neural Networks/SU project - Credit card fraud dataset.md",
+    "Neural Networks/Guides.md",
+    "Neural Networks/SU lectures.md",
+    "Neural Networks/SU lectures/Untitled.md",
+    "Neural Networks/SU lectures",
+    "Neural Networks",
     "Own content/Masters AI/Основи на ИИ/Reinforcement learning.pdf",
     "Own content/Masters AI/Машинно самообучение/Code Repository.md",
     "Own content/Masters AI/Скоринг модели/Scoring models.md",
