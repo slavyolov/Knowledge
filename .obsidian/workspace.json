@@ -112,9 +112,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e068e16ec3b530c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SHARE-ERIC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -180,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neural Networks/SU lectures.md",
+                "file": "SHARE-ERIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neural Networks/SU lectures.md",
+                "file": "SHARE-ERIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neural Networks/SU lectures.md"
+                "file": "SHARE-ERIC.md"
               }
             }
           }
@@ -241,16 +253,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95314558b7fb1ced",
+  "active": "e068e16ec3b530c9",
   "lastOpenFiles": [
+    "Neural Networks/SU lectures.md",
+    "SHARE-ERIC.md",
+    "Untitled",
     "Neural Networks/Guides.md",
     "Fraud detection.md",
     "Neural Networks/SU project - Credit card fraud dataset.md",
-    "Neural Networks/SU lectures.md",
     "Softmax.md",
     "Timeseries/Stationarity.md",
     "Untitled 1",
-    "Untitled",
     "ITIL.md",
     "Neural Networks/SU lectures/Untitled.md",
     "Neural Networks/SU lectures",
