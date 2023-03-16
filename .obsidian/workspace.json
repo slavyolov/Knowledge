@@ -88,9 +88,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b92a786abc6e11c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Networks/SU project - Credit card fraud dataset.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95314558b7fb1ced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Networks/SU lectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -136,8 +160,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neural Networks/Guides.md",
+                "file": "Neural Networks/SU lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neural Networks/Guides.md",
+                "file": "Neural Networks/SU lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neural Networks/Guides.md"
+                "file": "Neural Networks/SU lectures.md"
               }
             }
           }
@@ -218,16 +241,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "001f9f894a12261b",
+  "active": "95314558b7fb1ced",
   "lastOpenFiles": [
+    "Neural Networks/Guides.md",
+    "Fraud detection.md",
+    "Neural Networks/SU project - Credit card fraud dataset.md",
+    "Neural Networks/SU lectures.md",
     "Softmax.md",
     "Timeseries/Stationarity.md",
-    "Neural Networks/Guides.md",
     "Untitled 1",
     "Untitled",
     "ITIL.md",
-    "Neural Networks/SU lectures.md",
-    "Neural Networks/SU project - Credit card fraud dataset.md",
     "Neural Networks/SU lectures/Untitled.md",
     "Neural Networks/SU lectures",
     "Neural Networks",
