@@ -1,0 +1,9 @@
+- mean, median, mode
+- MICE
+	- assumes data is missing at random
+	- training a model (LR)
+	- Step 0 
+		- fill in with the median
+	- 3-4 iterations until optimal solution
+- Neares neighbour imputation
+- 
