@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "Linear",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
