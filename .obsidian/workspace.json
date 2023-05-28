@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Адаптивни системи/Лекция 2 (2023-04-29).md",
+                "file": "SHARE-ERIC.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "02a2f5ca3b758e91",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SimpleLinearRegression",
+                "query": "Share",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +87,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "67693b1559570290",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Адаптивни системи/Лекция 2 (2023-04-29).md",
+                "file": "SHARE-ERIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Адаптивни системи/Лекция 2 (2023-04-29).md",
+                "file": "SHARE-ERIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Адаптивни системи/Лекция 2 (2023-04-29).md"
+                "file": "SHARE-ERIC.md"
               }
             }
           }
@@ -159,12 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40808c5d2724c16f",
+  "active": "02a2f5ca3b758e91",
   "lastOpenFiles": [
+    "Адаптивни системи/Лекция 2 (2023-04-29).md",
     "Price Elasticity.md",
     "Prediction error estimators.md",
     "Linear Regression.md",
-    "Адаптивни системи/Лекция 2 (2023-04-29).md",
     "Fraud detection.md",
     "Адаптивни системи/Лекция 1 (2023-04-23).md",
     "Neural Networks/SU lectures.md",
