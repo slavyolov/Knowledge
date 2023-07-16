@@ -50,9 +50,19 @@
                 "currentVersion": "1.3.4"
               }
             }
+          },
+          {
+            "id": "97248d10fb12c36d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,7 +198,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcfc7e9987fb9909",
+  "active": "97248d10fb12c36d",
   "lastOpenFiles": [
     "Адаптивни системи/Лекция 2 (2023-04-29).md",
     "Price Elasticity.md",
