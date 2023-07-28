@@ -60,9 +60,21 @@
                 "currentVersion": "1.3.5"
               }
             }
+          },
+          {
+            "id": "87a0cb44ca0ff7bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -116,8 +128,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHARE-ERIC.md",
+                "file": "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SHARE-ERIC.md",
+                "file": "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SHARE-ERIC.md"
+                "file": "Master thesis (МАГИСТЪРСКА ТЕЗА).md"
               }
             }
           }
@@ -198,8 +209,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97248d10fb12c36d",
+  "active": "87a0cb44ca0ff7bc",
   "lastOpenFiles": [
+    "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
     "Адаптивни системи/Лекция 2 (2023-04-29).md",
     "Price Elasticity.md",
     "Prediction error estimators.md",
