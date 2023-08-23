@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Share",
+                "query": "мотива",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,6 +211,10 @@
   },
   "active": "87a0cb44ca0ff7bc",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "2023-07-28.md",
+    "SHAP plots.md",
+    "SHARE-ERIC.md",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
     "Адаптивни системи/Лекция 2 (2023-04-29).md",
     "Price Elasticity.md",
@@ -223,7 +227,6 @@
     "Clustering.md",
     "Own content/Guest Lectures.md",
     "Data Imputation.md",
-    "SHARE-ERIC.md",
     "Untitled 1",
     "Адаптивни системи",
     "Neural Networks/Guides.md",
@@ -239,8 +242,6 @@
     "Own content/Masters AI/Скоринг модели/Scoring models.md",
     "Own content/Masters AI/NLP/NLP_sentiment_analysis.md",
     "Reinforcement Learning/Resources.md",
-    "Reinforcement Learning/Reinforcement Learning.md",
-    "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf",
-    "Python libraries.md"
+    "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf"
   ]
 }
