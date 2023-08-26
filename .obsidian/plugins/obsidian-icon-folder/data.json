@@ -5,8 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiPython",
-      "SiBookstack"
+      "FarClock",
+      "FarBell",
+      "FarFaceLaughSquint",
+      "FarBookmark",
+      "SiPython"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -21,5 +24,6 @@
   "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf": {
     "iconName": null,
     "inheritanceIcon": "📗"
-  }
+  },
+  "Master Thesis ideas and plan.md": "FarClock"
 }

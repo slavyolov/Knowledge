@@ -14,6 +14,8 @@ https://er.ucu.edu.ua/bitstream/handle/1/2857/Andrii%20Prysiazhnyk.pdf?sequence=
 https://webthesis.biblio.polito.it/6798/1/tesi.pdf
 
 https://github.com/topics/dynamic-pricing
+	- https://github.com/dimvasdim/Thesis
+	- 
 https://github.com/DallasBuyer/awesome-dynamic-pricing
 
 https://arxiv.org/pdf/1912.02572.pdf
@@ -90,3 +92,13 @@ Structure :
 	
 	
 Сравнителен анализ с другия пейпър, ако е близко
+
+
+
+Policy gradient methods are **a type of reinforcement learning techniques that rely upon optimizing parametrized policies with respect to the expected return (long-term cumulative reward) by gradient descent**.
+
+https://towardsdatascience.com/policy-gradients-in-a-nutshell-8b72f9743c5d?gi=5e19acff8e9a
+
+
+https://spinningup.openai.com/en/latest/algorithms/vpg.html
+
