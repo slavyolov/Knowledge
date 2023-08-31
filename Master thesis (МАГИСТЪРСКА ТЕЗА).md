@@ -1,24 +1,53 @@
 
+1. Dynamic Pricing using Reinforcement Learning for the Amazon marketplace
+	- Paper : https://er.ucu.edu.ua/bitstream/handle/1/2857/Andrii%20Prysiazhnyk.pdf?sequence=1&isAllowed=y
+	- Code : https://github.com/andriiaprysiazhnyk/amazon_dynamic_pricing/tree/main
+	- Data : Amazon marketplace (no link)
 
-Articles No code :
+2. # Implementing Dynamic pricing strategy ( https://induraj2020.medium.com/implementing-dynamic-pricing-strategy-in-python-part-1-5bd7e1a1f382 )
+	- Paper : no
+	- Code  : yes (see the link)
+	- Data : Brazilian E-Commerce Public Dataset by Olist (see the link)
 
-https://towardsdatascience.com/dynamic-pricing-using-reinforcement-learning-and-neural-networks-cc3abe374bf5
+3. Data-Driven Retail Food Waste Reduction A comparison of demand forecasting techniques and dynamic pricing strategies
+	1. Paper : https://essay.utwente.nl/76380/1/Felix_MA_EEMCS.pdf
+	2. Code : No code available 
+	3. Data : https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data
 
-Papers but from other areas :
+4. DYNAMIC PRICING ON E-COMMERCE PLATFORM WITH DEEP REINFORCEMENT LEARNING: A FIELD EXPERIMENT
+	- Paper : https://arxiv.org/pdf/1912.02572v3.pdf
+	- Code : no
+	- Data : no
 
-file:///C:/Users/natal/Downloads/algorithms-16-00032-v2%20(1).pdf
+5. https://github.com/divdasani/Dynamic-Pricing/tree/master
+	- Paper : https://github.com/divdasani/Dynamic-Pricing/blob/master/Thesis-%20Dasani%2C%20Div.pdf
+	- Code : yes
+	- Data : synthetic
 
-Gitbub 
-https://er.ucu.edu.ua/bitstream/handle/1/2857/Andrii%20Prysiazhnyk.pdf?sequence=1&isAllowed=y + source code ( https://github.com/andriiaprysiazhnyk/amazon_dynamic_pricing)
+6. Reinforcement Learning for Fair Dynamic Pricing (https://arxiv.org/pdf/1803.09967.pdf)
+7. Dynamic Pricing with Multi-Armed Bandit: Learning by Doing https://towardsdatascience.com/dynamic-pricing-with-multi-armed-bandit-learning-by-doing-3e4550ed02ac
+	1. Code : yes
+	2. Data : no
 
-https://webthesis.biblio.polito.it/6798/1/tesi.pdf
+8. A reinforcement learning approach to dynamic pricing 
+	- Paper : https://webthesis.biblio.polito.it/6798/1/tesi.pdf
+	- code : no
+	- data : no
+
+
+
+
+**Papers/Articles but from other areas :**
+
+- Deep Reinforcement Learning-Based Dynamic Pricing for Parking Solutions (file:///C:/Users/natal/Downloads/algorithms-16-00032-v2%20(1).pdf)
+
+- https://towardsdatascience.com/dynamic-pricing-using-reinforcement-learning-and-neural-networks-cc3abe374bf5
+
+
+
 
 https://github.com/topics/dynamic-pricing
-	- https://github.com/dimvasdim/Thesis
-	- 
 https://github.com/DallasBuyer/awesome-dynamic-pricing
-
-https://arxiv.org/pdf/1912.02572.pdf
 
 https://github.com/divdasani/Dynamic-Pricing/blob/master/Thesis-%20Dasani%2C%20Div.pdf
 https://github.com/klmreddy
