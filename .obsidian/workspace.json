@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "edf66f4d5c1af467",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
             "id": "0a38bcf7362b9987",
             "type": "leaf",
             "state": {
@@ -41,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edb3882abbdfebe1",
+  "active": "edf66f4d5c1af467",
   "lastOpenFiles": [
     "Master Thesis ideas and plan.md",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
