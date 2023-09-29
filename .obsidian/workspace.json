@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "edf66f4d5c1af467",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
             "id": "0a38bcf7362b9987",
             "type": "leaf",
             "state": {
@@ -40,19 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1295340b6aa531be",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,10 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edf66f4d5c1af467",
+  "active": "edb3882abbdfebe1",
   "lastOpenFiles": [
     "Master Thesis ideas and plan.md",
+    "NLP/Sofia University slides/3. Sentiment Analysis.pdf",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+    "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf",
+    "NLP/Sofia University slides/1. Text Data Processing and Preparation.pdf",
     "Untitled 1.canvas",
     "2023-07-28.md",
     "SHAP plots.md",
@@ -220,7 +202,6 @@
     "Own content/Masters AI/Машинно самообучение/Code Repository.md",
     "Own content/Masters AI/Скоринг модели/Scoring models.md",
     "Own content/Masters AI/NLP/NLP_sentiment_analysis.md",
-    "Reinforcement Learning/Resources.md",
     "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf"
   ]
 }

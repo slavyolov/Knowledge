@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": true,
+    "migrated": 3,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "iconColor": null,
@@ -18,7 +18,9 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
+    },
+    "emojiStyle": "none",
+    "iconInTabsEnabled": false
   },
   "Books": "SiBookstack",
   "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf": {

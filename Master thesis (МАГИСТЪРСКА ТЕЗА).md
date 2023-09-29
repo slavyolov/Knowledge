@@ -131,3 +131,4 @@ https://towardsdatascience.com/policy-gradients-in-a-nutshell-8b72f9743c5d?gi=5e
 
 https://spinningup.openai.com/en/latest/algorithms/vpg.html
 
+Тест - 
