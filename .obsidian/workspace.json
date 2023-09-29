@@ -169,19 +169,22 @@
   },
   "active": "0a38bcf7362b9987",
   "lastOpenFiles": [
+    "~$test_excel.xlsx",
+    "Untitled 1.canvas",
+    "Prediction error estimators.md",
+    "Linear Regression.md",
+    "2023-02-09.md",
+    "test_excel.xlsx",
     "Master Thesis ideas and plan.md",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
     "NLP/Sofia University slides/3. Sentiment Analysis.pdf",
     "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf",
     "NLP/Sofia University slides/1. Text Data Processing and Preparation.pdf",
-    "Untitled 1.canvas",
     "2023-07-28.md",
     "SHAP plots.md",
     "SHARE-ERIC.md",
     "Адаптивни системи/Лекция 2 (2023-04-29).md",
     "Price Elasticity.md",
-    "Prediction error estimators.md",
-    "Linear Regression.md",
     "Fraud detection.md",
     "Адаптивни системи/Лекция 1 (2023-04-23).md",
     "Neural Networks/SU lectures.md",
@@ -201,8 +204,6 @@
     "Neural Networks",
     "Own content/Masters AI/Основи на ИИ/Reinforcement learning.pdf",
     "Own content/Masters AI/Машинно самообучение/Code Repository.md",
-    "Own content/Masters AI/Скоринг модели/Scoring models.md",
-    "Own content/Masters AI/NLP/NLP_sentiment_analysis.md",
-    "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf"
+    "Own content/Masters AI/Скоринг модели/Scoring models.md"
   ]
 }
