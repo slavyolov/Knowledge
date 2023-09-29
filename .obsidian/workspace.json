@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Thesis ideas and plan.md",
+                "file": "2023-02-09.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+                "file": "2023-02-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+                "file": "2023-02-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master thesis (МАГИСТЪРСКА ТЕЗА).md"
+                "file": "2023-02-09.md"
               }
             }
           }
@@ -166,11 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edb3882abbdfebe1",
+  "active": "0a38bcf7362b9987",
   "lastOpenFiles": [
     "Master Thesis ideas and plan.md",
-    "NLP/Sofia University slides/3. Sentiment Analysis.pdf",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+    "NLP/Sofia University slides/3. Sentiment Analysis.pdf",
     "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf",
     "NLP/Sofia University slides/1. Text Data Processing and Preparation.pdf",
     "Untitled 1.canvas",
