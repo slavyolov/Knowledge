@@ -1,0 +1,6 @@
+
+- **Maximum likelihood estimation (MLE)** is **a method of estimating the parameters of an assumed probability distribution, given some observed data**. This is achieved by [maximizing](https://en.wikipedia.org/wiki/Mathematical_optimization "Mathematical optimization") a [likelihood function](https://en.wikipedia.org/wiki/Likelihood_function "Likelihood function") so that, under the assumed [statistical model](https://en.wikipedia.org/wiki/Statistical_model "Statistical model"), the [observed data](https://en.wikipedia.org/wiki/Realization_(probability) "Realization (probability)") is most probable
+- **Least Squares Estimation**  is a method of fitting a probability distribution to a set of data. It works by transforming the CDF (by linearizing the equation) and then using least squares estimation to find the parameters of the line of best fit for the linearized data.
+	- [How does Least Squares Estimation work — reliability 0.8.14 documentation](https://reliability.readthedocs.io/en/stable/How%20does%20Least%20Squares%20Estimation%20work.html)
+# Tags
+#maximum_likelihood, #least_squares 

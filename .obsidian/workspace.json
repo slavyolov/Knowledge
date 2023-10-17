@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28e119846d4f0354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear models/GLM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1c5368bf3c0a276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistical Dictionary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "мотива",
+                "query": "tag:#maximum_likelihood",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clustering/Clustering mixed data.md",
+                "file": "Statistical Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clustering/Clustering mixed data.md",
+                "file": "Statistical Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clustering/Clustering mixed data.md"
+                "file": "Statistical Dictionary.md"
               }
             }
           },
@@ -201,10 +225,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4ce54bf0d76f237",
+  "active": "f1c5368bf3c0a276",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Linear models/GLM.md",
+    "Statistical Dictionary.md",
+    "Open medium articles.md",
+    "Linear models",
     "Clustering/Clustering mixed data.md",
+    "Untitled.md",
     "Clustering",
     "Exponential functions.md",
     "2023-02-09.md",
@@ -235,10 +263,6 @@
     "Neural Networks/Guides.md",
     "Neural Networks/SU project - Credit card fraud dataset.md",
     "Softmax.md",
-    "Timeseries/Stationarity.md",
-    "ITIL.md",
-    "Neural Networks/SU lectures/Untitled.md",
-    "Neural Networks/SU lectures",
-    "Neural Networks"
+    "Neural Networks/SU lectures"
   ]
 }
