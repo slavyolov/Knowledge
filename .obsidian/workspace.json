@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d97cdcc27e708bcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software development best practices/Best practices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistical Dictionary.md",
+                "file": "Software development best practices/Best practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistical Dictionary.md",
+                "file": "Software development best practices/Best practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistical Dictionary.md"
+                "file": "Software development best practices/Best practices.md"
               }
             }
           },
@@ -225,10 +237,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1c5368bf3c0a276",
+  "active": "d97cdcc27e708bcb",
   "lastOpenFiles": [
-    "Linear models/GLM.md",
+    "Software development best practices/Unit Tests.md",
+    "Software development best practices/Best practices.md",
+    "Tools/Flow charts.md",
+    "Software development best practices/Create class variable dinamically.md",
+    "Tools",
+    "Untitled 1.md",
     "Statistical Dictionary.md",
+    "Software development best practices",
+    "Linear models/GLM.md",
     "Open medium articles.md",
     "Linear models",
     "Clustering/Clustering mixed data.md",
@@ -256,13 +275,6 @@
     "Neural Networks/SU lectures.md",
     "Cross-validation.md",
     "Clustering.md",
-    "Own content/Guest Lectures.md",
-    "Data Imputation.md",
-    "Untitled 1",
-    "Адаптивни системи",
-    "Neural Networks/Guides.md",
-    "Neural Networks/SU project - Credit card fraud dataset.md",
-    "Softmax.md",
-    "Neural Networks/SU lectures"
+    "Untitled 1"
   ]
 }
