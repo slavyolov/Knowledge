@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exponential functions.md",
+                "file": "Linear models/Log-log model (elasticities).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6190b79b67e7edc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear models/Log-log model (elasticities).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software development best practices/Best practices.md",
+                "file": "Open medium articles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#maximum_likelihood",
+                "query": "medium",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software development best practices/Best practices.md",
+                "file": "Linear models/Log-log model (elasticities).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software development best practices/Best practices.md",
+                "file": "Linear models/Log-log model (elasticities).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software development best practices/Best practices.md"
+                "file": "Linear models/Log-log model (elasticities).md"
               }
             }
           },
@@ -237,23 +249,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d97cdcc27e708bcb",
+  "active": "6190b79b67e7edc3",
   "lastOpenFiles": [
-    "Software development best practices/Unit Tests.md",
+    "Markdowns.md",
+    "Linear models/Log-log model (elasticities).md",
+    "Exponential functions.md",
+    "Linear models/GLM.md",
+    "Clustering/Clustering mixed data.md",
+    "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+    "Open medium articles.md",
+    "Cross-validation.md",
     "Software development best practices/Best practices.md",
+    "Software development best practices/Unit Tests.md",
     "Tools/Flow charts.md",
     "Software development best practices/Create class variable dinamically.md",
     "Tools",
     "Untitled 1.md",
     "Statistical Dictionary.md",
     "Software development best practices",
-    "Linear models/GLM.md",
-    "Open medium articles.md",
     "Linear models",
-    "Clustering/Clustering mixed data.md",
     "Untitled.md",
     "Clustering",
-    "Exponential functions.md",
     "2023-02-09.md",
     "~$test_excel.xlsx",
     "Untitled 1.canvas",
@@ -261,7 +277,6 @@
     "Linear Regression.md",
     "test_excel.xlsx",
     "Master Thesis ideas and plan.md",
-    "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
     "NLP/Sofia University slides/3. Sentiment Analysis.pdf",
     "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf",
     "NLP/Sofia University slides/1. Text Data Processing and Preparation.pdf",
@@ -272,9 +287,6 @@
     "Price Elasticity.md",
     "Fraud detection.md",
     "Адаптивни системи/Лекция 1 (2023-04-23).md",
-    "Neural Networks/SU lectures.md",
-    "Cross-validation.md",
-    "Clustering.md",
     "Untitled 1"
   ]
 }
