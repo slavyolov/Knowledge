@@ -13,6 +13,40 @@
 	- To find the % change in Y given % change in X
 
 
+=====================================================================
+**Constant elasticity model using Simple Linear Regression**
+
+[(1) Implementing Constant Elasticity Model using Simple Linear Regression - YouTube](https://www.youtube.com/watch?v=s8fqKYRp3_8)
+
+Formula : 
+
+$$Log (D) = Log (C) - e * Log (P)$$
+
+Where :
+D - demand
+P - price
+C - constant (Y intercept ==> $\beta0$ )
+e - negative epsilon (slope ==> $\beta1$ )
+
+The task is to estimate the Log(C) using linear regression
+
+Hypothesis :
+
+- Null : regression is not significant
+- Alternative : regression is significant
+
+if p_value < 0.05 we accept the Alternative hypothesis (or reject the Null hypothesis)
+
+**Interpretation of the coefficients :**
+
+[FAQ How do I interpret a regression model when some variables are log transformed? (ucla.edu)](https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faqhow-do-i-interpret-a-regression-model-when-some-variables-are-log-transformed/)
+expected_change_in_sales (change in price by 1% ** beta_coefficient ($\beta1$)) - 1
+
+=====================================================================
+
+
+
+
 Resources : 
 - 🍎 [Log-log model, elasticity, percentage change (dancingwithstatistics.com)](https://www.dancingwithstatistics.com/statistics/log-log-model%2C-elasticity%2C-percentage-change)
 - 🍎 [Price Elasticity of Demand with a Simple Linear Regression (Part I) | by Ileana Cabada | Medium](https://ileanacabada.medium.com/price-elasticity-of-demand-using-linear-regression-in-python-part-1-a28c844c1656)
@@ -35,6 +69,11 @@ Resources :
 - [The price elasticity of electricity demand in South Australia and Victoria ESIPC and VenCorp (robjhyndman.com)](https://robjhyndman.com/papers/Elasticity2010.pdf)
 - [Hourly price elasticity pattern of electricity demand in the German day-ahead market (econstor.eu)](https://www.econstor.eu/bitstream/10419/144865/1/865176043.pdf)
 - http://webcache.googleusercontent.com/search?q=cache:https://towardsdatascience.com/predicting-price-elasticity-of-demand-with-python-implementing-stp-framework-part-4-646b025b8b34
+- [Price Elasticity of Demand, Statistical Modeling with Python | by Susan Li | Towards Data Science](https://towardsdatascience.com/calculating-price-elasticity-of-demand-statistical-modeling-with-python-6adb2fa7824d)
+- 
+
+Books :
+[Ch. 5 Introduction to Elasticity - Principles of Economics 3e | OpenStax](https://openstax.org/books/principles-economics-3e/pages/5-introduction-to-elasticity)
 
 # Forums :
 - [econometrics - price elasticity and time series modelling - Cross Validated (stackexchange.com)](https://stats.stackexchange.com/questions/260112/price-elasticity-and-time-series-modelling)
@@ -45,6 +84,7 @@ Resources :
 			- 1st we predict the price
 			- 2nd we predict
 - Two stage LR model for elasticity (Estimating Demand Elasticity with Many Instruments: a Machine Learning Approach) [demand_estimation_final.pdf (tum.de)](https://www.ep.mgt.tum.de/fileadmin/w00cgd/cem/Publikationen/demand_estimation_final.pdf)
+- [regression - Price Elasticity Calculation - Cross Validated (stackexchange.com)](https://stats.stackexchange.com/questions/207949/price-elasticity-calculation)
 - 
 
 # **Advantages**:

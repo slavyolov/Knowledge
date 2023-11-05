@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear models/Log-log model (elasticities).md",
+                "file": "NLP/Named Entity Recognition (NER)/Steps.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear models/Log-log model (elasticities).md",
+                "file": "Linear models/Two stage least squares (2SLS).md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear models/Log-log model (elasticities).md",
+                "file": "NLP/Named Entity Recognition (NER)/Steps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear models/Log-log model (elasticities).md",
+                "file": "NLP/Named Entity Recognition (NER)/Steps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear models/Log-log model (elasticities).md"
+                "file": "NLP/Named Entity Recognition (NER)/Steps.md"
               }
             }
           },
@@ -249,10 +249,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6190b79b67e7edc3",
+  "active": "26e85e1c0cd36eda",
   "lastOpenFiles": [
-    "Markdowns.md",
+    "Gen AI/Curated list of applications.md",
+    "NLP/Named Entity Recognition (NER)/Steps.md",
+    "NLP/Named Entity Recognition (NER)",
     "Linear models/Log-log model (elasticities).md",
+    "Gen AI",
+    "Linear models/Two stage least squares (2SLS).md",
+    "Linear models/~$log_log_model_example.xlsx",
+    "Linear models/log_log_model_example.xlsx",
+    "Markdowns.md",
     "Exponential functions.md",
     "Linear models/GLM.md",
     "Clustering/Clustering mixed data.md",
@@ -277,16 +284,9 @@
     "Linear Regression.md",
     "test_excel.xlsx",
     "Master Thesis ideas and plan.md",
-    "NLP/Sofia University slides/3. Sentiment Analysis.pdf",
-    "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf",
-    "NLP/Sofia University slides/1. Text Data Processing and Preparation.pdf",
     "2023-07-28.md",
     "SHAP plots.md",
     "SHARE-ERIC.md",
-    "Адаптивни системи/Лекция 2 (2023-04-29).md",
-    "Price Elasticity.md",
-    "Fraud detection.md",
-    "Адаптивни системи/Лекция 1 (2023-04-23).md",
-    "Untitled 1"
+    "Адаптивни системи/Лекция 2 (2023-04-29).md"
   ]
 }
