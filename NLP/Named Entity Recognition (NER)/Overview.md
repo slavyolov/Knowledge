@@ -7,7 +7,6 @@
 2. Annotation
 - [Label Studio Documentation — Overview of Label Studio](https://labelstud.io/guide/get_started.html#Quick-start)
 	- Label Studio is an open source data labeling tool that supports multiple projects, users and data types in one platform. It allows you to do the following:
-	- slav1948#$%^KORBP
 - [NER Annotator for SpaCy (tecoholic.github.io)](https://tecoholic.github.io/ner-annotator/)
 
 
