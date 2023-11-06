@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/Named Entity Recognition (NER)/Steps.md",
+                "file": "NLP/Named Entity Recognition (NER)/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/Named Entity Recognition (NER)/Steps.md",
+                "file": "NLP/Named Entity Recognition (NER)/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/Named Entity Recognition (NER)/Steps.md",
+                "file": "NLP/Named Entity Recognition (NER)/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/Named Entity Recognition (NER)/Steps.md"
+                "file": "NLP/Named Entity Recognition (NER)/Overview.md"
               }
             }
           },
@@ -252,7 +252,7 @@
   "active": "26e85e1c0cd36eda",
   "lastOpenFiles": [
     "Gen AI/Curated list of applications.md",
-    "NLP/Named Entity Recognition (NER)/Steps.md",
+    "NLP/Named Entity Recognition (NER)/Overview.md",
     "NLP/Named Entity Recognition (NER)",
     "Linear models/Log-log model (elasticities).md",
     "Gen AI",
