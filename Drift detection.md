@@ -1,0 +1,3 @@
+- [How to detect, evaluate and visualize historical drifts in the data (evidentlyai.com)](https://www.evidentlyai.com/blog/tutorial-3-historical-data-drift)
+- [Which test is the best? We compared 5 methods to detect data drift on large datasets (evidentlyai.com)](https://www.evidentlyai.com/blog/data-drift-detection-large-datasets#how-do-tests-perform-on-real-world-data-2)
+- 

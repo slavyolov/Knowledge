@@ -37,8 +37,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/Named Entity Recognition (NER)/Overview.md",
+                "file": "Linear models/Log-log model (elasticities).md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8aed51a0750a6a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drift detection.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/Named Entity Recognition (NER)/Overview.md",
+                "file": "Drift detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/Named Entity Recognition (NER)/Overview.md",
+                "file": "Drift detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/Named Entity Recognition (NER)/Overview.md"
+                "file": "Drift detection.md"
               }
             }
           },
@@ -249,19 +261,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26e85e1c0cd36eda",
+  "active": "8aed51a0750a6a41",
   "lastOpenFiles": [
-    "Gen AI/Curated list of applications.md",
-    "NLP/Named Entity Recognition (NER)/Overview.md",
-    "NLP/Named Entity Recognition (NER)",
     "Linear models/Log-log model (elasticities).md",
-    "Gen AI",
+    "Drift detection.md",
+    "ML OPS",
+    "Linear models/GLM.md",
     "Linear models/Two stage least squares (2SLS).md",
+    "NLP/Named Entity Recognition (NER)/Overview.md",
+    "Gen AI/Curated list of applications.md",
+    "NLP/Named Entity Recognition (NER)",
+    "Gen AI",
     "Linear models/~$log_log_model_example.xlsx",
     "Linear models/log_log_model_example.xlsx",
     "Markdowns.md",
     "Exponential functions.md",
-    "Linear models/GLM.md",
     "Clustering/Clustering mixed data.md",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
     "Open medium articles.md",
@@ -282,11 +296,9 @@
     "Untitled 1.canvas",
     "Prediction error estimators.md",
     "Linear Regression.md",
-    "test_excel.xlsx",
     "Master Thesis ideas and plan.md",
     "2023-07-28.md",
     "SHAP plots.md",
-    "SHARE-ERIC.md",
-    "Адаптивни системи/Лекция 2 (2023-04-29).md"
+    "SHARE-ERIC.md"
   ]
 }
