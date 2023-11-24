@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drift detection.md",
+                "file": "SHAP plots.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "medium",
+                "query": "SHAP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drift detection.md",
+                "file": "SHAP plots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drift detection.md",
+                "file": "SHAP plots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drift detection.md"
+                "file": "SHAP plots.md"
               }
             }
           },
@@ -263,8 +264,8 @@
   },
   "active": "8aed51a0750a6a41",
   "lastOpenFiles": [
-    "Linear models/Log-log model (elasticities).md",
     "Drift detection.md",
+    "Linear models/Log-log model (elasticities).md",
     "ML OPS",
     "Linear models/GLM.md",
     "Linear models/Two stage least squares (2SLS).md",
