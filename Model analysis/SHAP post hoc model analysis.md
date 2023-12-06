@@ -1,3 +1,4 @@
+- Model agnostic
 - **Guides :**
 	- 🍒[Explaining Machine Learning Models: A Non-Technical Guide to Interpreting SHAP Analyses (aidancooper.co.uk)](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
 	- https://towardsdatascience.com/how-to-easily-customize-shap-plots-in-python-fdff9c0483f2
@@ -34,6 +35,7 @@
 	In order to match predictions between SHAP values and model.predict we have to set the `raw_scores = True` :
 		- [Interpretation of Base Value and Predicted Value in SHAP Plots · Issue #352 · shap/shap · GitHub](https://github.com/shap/shap/issues/352)
 		- Solution : https://github.com/shap/shap/issues/352#issuecomment-502771556
+- To be tested : [GPUTree explainer — SHAP latest documentation](https://shap.readthedocs.io/en/latest/example_notebooks/api_examples/explainers/GPUTree.html)
 
 **Know how :**
 
@@ -42,3 +44,4 @@
 
 - [A Unified Approach to Interpreting Model Predictions (neurips.cc)](https://proceedings.neurips.cc/paper_files/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf)
 
+#SHAP

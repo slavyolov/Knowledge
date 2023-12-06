@@ -49,67 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHAP plots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6190b79b67e7edc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear models/Two stage least squares (2SLS).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4ce54bf0d76f237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clustering/Clustering mixed data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28e119846d4f0354",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear models/GLM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1c5368bf3c0a276",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistical Dictionary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d97cdcc27e708bcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Open medium articles.md",
+                "file": "Model analysis/SHAP post hoc model analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SHAP",
+                "query": "tag:#SHAP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SHAP plots.md",
+                "file": "Model analysis/SHAP post hoc model analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SHAP plots.md",
+                "file": "Model analysis/SHAP post hoc model analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SHAP plots.md"
+                "file": "Model analysis/SHAP post hoc model analysis.md"
               }
             }
           },
@@ -264,11 +204,14 @@
   },
   "active": "8aed51a0750a6a41",
   "lastOpenFiles": [
+    "Linear models/Two stage least squares (2SLS).md",
+    "Model analysis/SHAP post hoc model analysis.md",
+    "Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
+    "Model analysis",
     "Drift detection.md",
     "Linear models/Log-log model (elasticities).md",
     "ML OPS",
     "Linear models/GLM.md",
-    "Linear models/Two stage least squares (2SLS).md",
     "NLP/Named Entity Recognition (NER)/Overview.md",
     "Gen AI/Curated list of applications.md",
     "NLP/Named Entity Recognition (NER)",
@@ -293,13 +236,10 @@
     "Untitled.md",
     "Clustering",
     "2023-02-09.md",
-    "~$test_excel.xlsx",
     "Untitled 1.canvas",
     "Prediction error estimators.md",
     "Linear Regression.md",
     "Master Thesis ideas and plan.md",
-    "2023-07-28.md",
-    "SHAP plots.md",
-    "SHARE-ERIC.md"
+    "2023-07-28.md"
   ]
 }
