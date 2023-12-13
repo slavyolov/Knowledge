@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model analysis/SHAP post hoc model analysis.md",
+                "file": "Timeseries/Books/Bibliography.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Model analysis/SHAP post hoc model analysis.md",
+                "file": "Timeseries/Books/Bibliography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Model analysis/SHAP post hoc model analysis.md",
+                "file": "Timeseries/Books/Bibliography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Model analysis/SHAP post hoc model analysis.md"
+                "file": "Timeseries/Books/Bibliography.md"
               }
             }
           },
@@ -204,8 +203,15 @@
   },
   "active": "8aed51a0750a6a41",
   "lastOpenFiles": [
-    "Linear models/Two stage least squares (2SLS).md",
+    "Timeseries/SARIMA.md",
+    "Timeseries/Books/Bibliography.md",
+    "Untitled 2.md",
+    "Timeseries/Takeaways.md",
+    "Timeseries/Books",
+    "Timeseries/Stationarity.md",
+    "Timeseries/Seasonality.md",
     "Model analysis/SHAP post hoc model analysis.md",
+    "Linear models/Two stage least squares (2SLS).md",
     "Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
     "Model analysis",
     "Drift detection.md",
@@ -233,13 +239,6 @@
     "Statistical Dictionary.md",
     "Software development best practices",
     "Linear models",
-    "Untitled.md",
-    "Clustering",
-    "2023-02-09.md",
-    "Untitled 1.canvas",
-    "Prediction error estimators.md",
-    "Linear Regression.md",
-    "Master Thesis ideas and plan.md",
-    "2023-07-28.md"
+    "Untitled 1.canvas"
   ]
 }
