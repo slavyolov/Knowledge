@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeseries/Books/Bibliography.md",
+                "file": "Linear models/Log-log model (elasticities).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SHAP",
+                "query": "elastici",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeseries/Books/Bibliography.md",
+                "file": "Linear models/Log-log model (elasticities).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeseries/Books/Bibliography.md",
+                "file": "Linear models/Log-log model (elasticities).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeseries/Books/Bibliography.md"
+                "file": "Linear models/Log-log model (elasticities).md"
               }
             }
           },
@@ -201,10 +202,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8aed51a0750a6a41",
+  "active": "7e2c0f4340274820",
   "lastOpenFiles": [
-    "Timeseries/SARIMA.md",
+    "Linear models/GLM.md",
     "Timeseries/Books/Bibliography.md",
+    "Timeseries/SARIMA.md",
     "Untitled 2.md",
     "Timeseries/Takeaways.md",
     "Timeseries/Books",
@@ -217,7 +219,6 @@
     "Drift detection.md",
     "Linear models/Log-log model (elasticities).md",
     "ML OPS",
-    "Linear models/GLM.md",
     "NLP/Named Entity Recognition (NER)/Overview.md",
     "Gen AI/Curated list of applications.md",
     "NLP/Named Entity Recognition (NER)",
