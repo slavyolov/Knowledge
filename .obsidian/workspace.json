@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+                "file": "Pricing/Contextual Bandits.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,31 +25,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-02-09.md",
+                "file": "Reinforcement Learning/Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "26e85e1c0cd36eda",
+            "id": "688236e7174cfc62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear models/Log-log model (elasticities).md",
-                "mode": "preview",
+                "file": "Pricing/Medium reading list.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8aed51a0750a6a41",
+            "id": "8d7e0ce675d20318",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear models/Log-log model (elasticities).md",
+                "file": "Pricing/Contextual Bandits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "252b43623f848057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pricing/Thompson sampling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elastici",
+                "query": "tag:#contextual_bandits",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear models/Log-log model (elasticities).md",
+                "file": "Pricing/Contextual Bandits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear models/Log-log model (elasticities).md",
+                "file": "Pricing/Contextual Bandits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear models/Log-log model (elasticities).md"
+                "file": "Pricing/Contextual Bandits.md"
               }
             }
           },
@@ -202,44 +213,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e2c0f4340274820",
+  "active": "8d7e0ce675d20318",
   "lastOpenFiles": [
-    "Linear models/GLM.md",
-    "Timeseries/Books/Bibliography.md",
-    "Timeseries/SARIMA.md",
-    "Untitled 2.md",
-    "Timeseries/Takeaways.md",
-    "Timeseries/Books",
-    "Timeseries/Stationarity.md",
-    "Timeseries/Seasonality.md",
-    "Model analysis/SHAP post hoc model analysis.md",
-    "Linear models/Two stage least squares (2SLS).md",
-    "Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
-    "Model analysis",
-    "Drift detection.md",
+    "Pricing/Thompson sampling.md",
+    "Pricing/Contextual Bandits.md",
+    "Pricing/Medium reading list.md",
+    "Reinforcement Learning/Reinforcement Learning.md",
+    "Dictionary.md",
+    "Reinforcement Learning/Contextual bandit problems.md",
+    "Pricing/Notes master thesis.md",
+    "Reinforcement Learning/Resources.md",
+    "2023-02-09.md",
     "Linear models/Log-log model (elasticities).md",
-    "ML OPS",
-    "NLP/Named Entity Recognition (NER)/Overview.md",
+    "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+    "Untitled",
+    "Pricing",
+    "Master Thesis ideas and plan.md",
+    "Neural Networks/SU project - Credit card fraud dataset.md",
+    "Neural Networks/SU lectures.md",
+    "Neural Networks/Guides.md",
+    "Model analysis/SHAP post hoc model analysis.md",
+    "Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
+    "Linear models/Two stage least squares (2SLS).md",
     "Gen AI/Curated list of applications.md",
+    "EDA/Pandas Profiling.md",
+    "Clustering/Clustering mixed data.md",
+    "Cheet Sheets/ML_and_Data_Science.pdf",
+    "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf",
+    "Own content/Guest Lectures.md",
+    "Linear models/GLM.md",
+    "2023-12-17.md",
+    "Адаптивни системи/Лекция 2 (2023-04-29).md",
+    "Timeseries/Books/Bibliography.md",
+    "Timeseries/Books",
+    "Model analysis",
+    "ML OPS",
     "NLP/Named Entity Recognition (NER)",
     "Gen AI",
     "Linear models/~$log_log_model_example.xlsx",
-    "Linear models/log_log_model_example.xlsx",
-    "Markdowns.md",
-    "Exponential functions.md",
-    "Clustering/Clustering mixed data.md",
-    "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
-    "Open medium articles.md",
-    "Cross-validation.md",
-    "Software development best practices/Best practices.md",
-    "Software development best practices/Unit Tests.md",
-    "Tools/Flow charts.md",
-    "Software development best practices/Create class variable dinamically.md",
-    "Tools",
-    "Untitled 1.md",
-    "Statistical Dictionary.md",
-    "Software development best practices",
-    "Linear models",
     "Untitled 1.canvas"
   ]
 }
