@@ -6,3 +6,5 @@ Real world application (KFL)
 Option 1 for the master thesis :
 	- thompson sampling
 	- contextual 
+
+Take a note
