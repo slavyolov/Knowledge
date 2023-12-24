@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "0a38bcf7362b9987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pricing/Medium reading list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "688236e7174cfc62",
             "type": "leaf",
             "state": {
@@ -44,12 +32,12 @@
             }
           },
           {
-            "id": "8d7e0ce675d20318",
+            "id": "e9a9354cf0d85186",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Splunk.md",
+                "file": "Dictionary.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,6 +45,18 @@
           },
           {
             "id": "252b43623f848057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pricing/Thompson sampling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9091c1f8775ab268",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tools",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Splunk.md",
+                "file": "Pricing/Thompson sampling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Splunk.md",
+                "file": "Pricing/Thompson sampling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Splunk.md"
+                "file": "Pricing/Thompson sampling.md"
               }
             }
           },
@@ -201,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,22 +213,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d7e0ce675d20318",
+  "active": "252b43623f848057",
   "lastOpenFiles": [
-    "Pricing/Thompson sampling.md",
+    "Dictionary.md",
     "Pricing/Medium reading list.md",
+    "Pricing/Papers/Thompson Sampling for Dynamic Pricing.pdf",
+    "Pricing/Thompson sampling.md",
+    "Pricing/Papers/Dynamic Pricing and Learning - Historical Origins, Current Research, and New Directions.pdf",
+    "Pricing/Notes master thesis.md",
     "Pricing/Contextual Bandits.md",
-    "Reinforcement Learning/Reinforcement Learning.md",
+    "Pricing/Approaches for dynamic pricing.md",
+    "Pricing/Papers",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
-    "Master Thesis ideas and plan.md",
     "Tools/Splunk.md",
+    "Reinforcement Learning/Reinforcement Learning.md",
+    "Master Thesis ideas and plan.md",
     "Pasted image 20231221115532.png",
     "Tools/Flow charts.md",
     "Untitled",
     "Toolset.md",
-    "Dictionary.md",
     "Reinforcement Learning/Contextual bandit problems.md",
-    "Pricing/Notes master thesis.md",
     "Reinforcement Learning/Resources.md",
     "2023-02-09.md",
     "Linear models/Log-log model (elasticities).md",
@@ -244,13 +248,9 @@
     "Clustering/Clustering mixed data.md",
     "Cheet Sheets/ML_and_Data_Science.pdf",
     "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf",
-    "Own content/Guest Lectures.md",
     "Timeseries/Books",
     "Model analysis",
     "ML OPS",
-    "NLP/Named Entity Recognition (NER)",
-    "Gen AI",
-    "Linear models/~$log_log_model_example.xlsx",
     "Untitled 1.canvas"
   ]
 }

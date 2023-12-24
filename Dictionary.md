@@ -8,3 +8,11 @@
 
 	👉 **Exploitation**: We want to exploit all the knowledge we have gained through exploring and actually do what we set out to do: set our price at an optimal level.
 - #contextual_bandits t problem, **a learner repeatedly observes a context, chooses an action, and observes a loss/cost/reward for the chosen action only**. Contextual bandit algorithms use additional side information (or context) to aid real world decision-making
+- **Frictionless shopping** 
+	- The idea of connecting buyers and sellers in a way that provides consumers the ability to instantly find the products or services they need.
+	- Examples :  one-click pay buttons online and contactless payments in the store.
+- **Parametric families / probability distributions**
+	- [List of probability distributions - Wikipedia](https://en.wikipedia.org/wiki/List_of_probability_distributions)
+- **Constant elasticity model (log-log model)**
+	- [Chapter 8 Specifying Models | R Companion to Real Econometrics (bookdown.org)](https://bookdown.org/carillitony/bailey/chp7.html)
+	- 
