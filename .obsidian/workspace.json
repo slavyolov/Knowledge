@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pricing/Contextual Bandits.md",
+                "file": "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Reinforcement Learning.md",
+                "file": "Pricing/Medium reading list.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pricing/Contextual Bandits.md",
+                "file": "Tools/Splunk.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#contextual_bandits",
+                "query": "Tools",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pricing/Contextual Bandits.md",
+                "file": "Tools/Splunk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pricing/Contextual Bandits.md",
+                "file": "Tools/Splunk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pricing/Contextual Bandits.md"
+                "file": "Tools/Splunk.md"
               }
             }
           },
@@ -216,19 +216,23 @@
   "active": "8d7e0ce675d20318",
   "lastOpenFiles": [
     "Pricing/Thompson sampling.md",
-    "Pricing/Contextual Bandits.md",
     "Pricing/Medium reading list.md",
+    "Pricing/Contextual Bandits.md",
     "Reinforcement Learning/Reinforcement Learning.md",
+    "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+    "Master Thesis ideas and plan.md",
+    "Tools/Splunk.md",
+    "Pasted image 20231221115532.png",
+    "Tools/Flow charts.md",
+    "Untitled",
+    "Toolset.md",
     "Dictionary.md",
     "Reinforcement Learning/Contextual bandit problems.md",
     "Pricing/Notes master thesis.md",
     "Reinforcement Learning/Resources.md",
     "2023-02-09.md",
     "Linear models/Log-log model (elasticities).md",
-    "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
-    "Untitled",
     "Pricing",
-    "Master Thesis ideas and plan.md",
     "Neural Networks/SU project - Credit card fraud dataset.md",
     "Neural Networks/SU lectures.md",
     "Neural Networks/Guides.md",
@@ -241,10 +245,6 @@
     "Cheet Sheets/ML_and_Data_Science.pdf",
     "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf",
     "Own content/Guest Lectures.md",
-    "Linear models/GLM.md",
-    "2023-12-17.md",
-    "Адаптивни системи/Лекция 2 (2023-04-29).md",
-    "Timeseries/Books/Bibliography.md",
     "Timeseries/Books",
     "Model analysis",
     "ML OPS",
