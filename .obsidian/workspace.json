@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pricing/Notes master thesis.md",
+                "file": "Dictionary.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pricing/Notes master thesis.md",
+                "file": "Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pricing/Notes master thesis.md",
+                "file": "Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pricing/Notes master thesis.md"
+                "file": "Dictionary.md"
               }
             }
           },
@@ -215,12 +215,12 @@
   },
   "active": "252b43623f848057",
   "lastOpenFiles": [
+    "Pricing/Notes master thesis.md",
     "Pricing/Thompson sampling.md",
     "Dictionary.md",
     "Pricing/Medium reading list.md",
     "Pricing/Papers/Thompson Sampling for Dynamic Pricing.pdf",
     "Pricing/Papers/Dynamic Pricing and Learning - Historical Origins, Current Research, and New Directions.pdf",
-    "Pricing/Notes master thesis.md",
     "Pricing/Contextual Bandits.md",
     "Pricing/Approaches for dynamic pricing.md",
     "Pricing/Papers",

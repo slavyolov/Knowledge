@@ -15,4 +15,7 @@
 	- [List of probability distributions - Wikipedia](https://en.wikipedia.org/wiki/List_of_probability_distributions)
 - **Constant elasticity model (log-log model)**
 	- [Chapter 8 Specifying Models | R Companion to Real Econometrics (bookdown.org)](https://bookdown.org/carillitony/bailey/chp7.html)
-	- 
+- **Bayesian statistics**
+	- prior distribution 
+		- [Bayesian method (1). The prior distribution | by Xichu Zhang | Towards Data Science](https://towardsdatascience.com/bayesian-method-1-1cbdb1e6b4)
+		- 
