@@ -18,4 +18,4 @@
 - **Bayesian statistics**
 	- prior distribution 
 		- [Bayesian method (1). The prior distribution | by Xichu Zhang | Towards Data Science](https://towardsdatascience.com/bayesian-method-1-1cbdb1e6b4)
-		- 
+		- NExt
