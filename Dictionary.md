@@ -7,7 +7,7 @@
 	👉 **Exploration**: We want to explore the demand for a diverse enough range of price points so that we can accurately estimate our demand curve.
 
 	👉 **Exploitation**: We want to exploit all the knowledge we have gained through exploring and actually do what we set out to do: set our price at an optimal level.
-- #contextual_bandits t problem, **a learner repeatedly observes a context, chooses an action, and observes a loss/cost/reward for the chosen action only**. Contextual bandit algorithms use additional side information (or context) to aid real world decision-making
+- #contextual_bandits problem, **a learner repeatedly observes a context, chooses an action, and observes a loss/cost/reward for the chosen action only**. Contextual bandit algorithms use additional side information (or context) to aid real world decision-making
 - **Frictionless shopping** 
 	- The idea of connecting buyers and sellers in a way that provides consumers the ability to instantly find the products or services they need.
 	- Examples :  one-click pay buttons online and contactless payments in the store.
@@ -16,6 +16,14 @@
 - **Constant elasticity model (log-log model)**
 	- [Chapter 8 Specifying Models | R Companion to Real Econometrics (bookdown.org)](https://bookdown.org/carillitony/bailey/chp7.html)
 - **Bayesian statistics**
-	- prior distribution 
+	- Tags : #bayes #bayesian_statistics
+	- [Chapter 1 The Basics of Bayesian Statistics | An Introduction to Bayesian Thinking (statswithr.github.io)](https://statswithr.github.io/book/the-basics-of-bayesian-statistics.html#bayes-rule)
+	- Prior distribution 
+		- The prior is sometimes described as the “belief” about the data. This means that we choose the prior according to our knowledge of the data.
 		- [Bayesian method (1). The prior distribution | by Xichu Zhang | Towards Data Science](https://towardsdatascience.com/bayesian-method-1-1cbdb1e6b4)
-		- NExt
+		- [transparencias (uc3m.es)](https://halweb.uc3m.es/esp/Personal/personas/mwiper/docencia/English/PhD_Bayesian_Statistics/ch5_2009.pdf)
+			- #uniform_prior 
+
+
+
+др. Пандев - края на февруари - март
