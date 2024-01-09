@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+                "file": "Pricing/Approaches for dynamic pricing.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pricing/Thompson sampling.md",
+                "file": "Reinforcement Learning/Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#contextual_bandits",
+                "query": "Sutton",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +109,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary.md",
+                "file": "Pricing/Approaches for dynamic pricing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary.md",
+                "file": "Pricing/Approaches for dynamic pricing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary.md"
+                "file": "Pricing/Approaches for dynamic pricing.md"
               }
             }
           },
@@ -181,7 +179,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -202,27 +202,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a069fb8d8a5fcad",
+  "active": "edb3882abbdfebe1",
   "lastOpenFiles": [
-    "Pricing/Medium reading lists.md",
-    "Dictionary.md",
-    "Pricing/Thompson sampling.md",
     "Pricing/Contextual Bandits.md",
+    "Pricing/3rd party tools.md",
+    "Pricing/Medium reading lists.md",
     "Pricing/Notes master thesis.md",
+    "Pricing/Thompson sampling.md",
+    "Reinforcement Learning/Multi-armed bandits and Contextual Bandits.md",
+    "Reinforcement Learning/Reinforcement Learning.md",
+    "Reinforcement Learning/Resources.md",
     "Pricing/Papers/Thompson Sampling for Dynamic Pricing.pdf",
     "Pricing/Papers/Dynamic Pricing and Learning - Historical Origins, Current Research, and New Directions.pdf",
+    "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+    "Dictionary.md",
     "Pricing/Approaches for dynamic pricing.md",
     "Pricing/Papers",
-    "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
     "Tools/Splunk.md",
-    "Reinforcement Learning/Reinforcement Learning.md",
     "Master Thesis ideas and plan.md",
     "Pasted image 20231221115532.png",
     "Tools/Flow charts.md",
     "Untitled",
     "Toolset.md",
     "Reinforcement Learning/Contextual bandit problems.md",
-    "Reinforcement Learning/Resources.md",
     "2023-02-09.md",
     "Linear models/Log-log model (elasticities).md",
     "Pricing",
@@ -234,7 +236,6 @@
     "Linear models/Two stage least squares (2SLS).md",
     "Gen AI/Curated list of applications.md",
     "EDA/Pandas Profiling.md",
-    "Clustering/Clustering mixed data.md",
     "Cheet Sheets/ML_and_Data_Science.pdf",
     "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf",
     "Timeseries/Books",

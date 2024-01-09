@@ -1,3 +1,7 @@
+**Reading list :** 
+
+- [DallasBuyer/awesome-dynamic-pricing: 😎 awesome dynamic pricing 💵 (github.com)](https://github.com/DallasBuyer/awesome-dynamic-pricing)
+
 
 # Typical approach
 
