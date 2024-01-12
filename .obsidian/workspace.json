@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pricing/Approaches for dynamic pricing.md",
+                "file": "Toolset.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pricing/Approaches for dynamic pricing.md",
+                "file": "Toolset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pricing/Approaches for dynamic pricing.md",
+                "file": "Toolset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pricing/Approaches for dynamic pricing.md"
+                "file": "Toolset.md"
               }
             }
           },
@@ -202,8 +202,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edb3882abbdfebe1",
+  "active": "4a069fb8d8a5fcad",
   "lastOpenFiles": [
+    "Pricing/Approaches for dynamic pricing.md",
     "Pricing/Contextual Bandits.md",
     "Pricing/3rd party tools.md",
     "Pricing/Medium reading lists.md",
@@ -216,7 +217,6 @@
     "Pricing/Papers/Dynamic Pricing and Learning - Historical Origins, Current Research, and New Directions.pdf",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
     "Dictionary.md",
-    "Pricing/Approaches for dynamic pricing.md",
     "Pricing/Papers",
     "Tools/Splunk.md",
     "Master Thesis ideas and plan.md",
