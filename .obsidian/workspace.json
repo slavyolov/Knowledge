@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Toolset.md",
+                "file": "NLP/Chatbots and LLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Toolset.md",
+                "file": "NLP/Chatbots and LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Toolset.md",
+                "file": "NLP/Chatbots and LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Toolset.md"
+                "file": "NLP/Chatbots and LLM.md"
               }
             }
           },
@@ -202,12 +202,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a069fb8d8a5fcad",
+  "active": "edb3882abbdfebe1",
   "lastOpenFiles": [
+    "Pricing/Medium reading lists.md",
+    "NLP/Chatbots and LLM.md",
+    "NLP/Named Entity Recognition (NER)/Overview.md",
+    "Toolset.md",
     "Pricing/Approaches for dynamic pricing.md",
     "Pricing/Contextual Bandits.md",
     "Pricing/3rd party tools.md",
-    "Pricing/Medium reading lists.md",
     "Pricing/Notes master thesis.md",
     "Pricing/Thompson sampling.md",
     "Reinforcement Learning/Multi-armed bandits and Contextual Bandits.md",
@@ -223,7 +226,6 @@
     "Pasted image 20231221115532.png",
     "Tools/Flow charts.md",
     "Untitled",
-    "Toolset.md",
     "Reinforcement Learning/Contextual bandit problems.md",
     "2023-02-09.md",
     "Linear models/Log-log model (elasticities).md",
@@ -234,8 +236,6 @@
     "Model analysis/SHAP post hoc model analysis.md",
     "Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
     "Linear models/Two stage least squares (2SLS).md",
-    "Gen AI/Curated list of applications.md",
-    "EDA/Pandas Profiling.md",
     "Cheet Sheets/ML_and_Data_Science.pdf",
     "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf",
     "Timeseries/Books",
