@@ -5,6 +5,12 @@
 
 ★ Arguably the most important econometric problem for estimation of the demandsupply model is posed by the output price being likely endogenous. More here : [demand_final_slides11.pdf (soderbom.net)](http://www.soderbom.net/demand_final_slides11.pdf)
 
+ ★ For the log-log model, **the slope coefficient** of an explanatory variable **gives a direct estimate of the elasticity coefficient** of the dependent variable with respect to the given explanatory variable.
+	 - [Econometrics and the Log-Log Model - dummies](https://www.dummies.com/article/business-careers-money/business/economics/econometrics-and-the-log-log-model-156386/)
+	 - [https://learn.snhu.edu/d2l/lor/viewer/viewFile.d2lfile/48988/2587](https://learn.snhu.edu/d2l/lor/viewer/viewFile.d2lfile/48988/2587#:~:text=For%20the%20log%2Dlog%20model,to%20the%20given%20explanatory%20variable.)
+	
+
+
 =====================================================================
 
 - log-log model was motivated by the interest to capture the non-linear relationship between the independent and dependent variables.
@@ -20,15 +26,14 @@
 
 Formula : 
 
-$$Log (D) = Log (C) - e * Log (P)$$
+$$Log (D) = \alpha + \beta * Log (P) + e$$
 
 Where :
 D - demand
 P - price
-C - constant (Y intercept ==> $\beta0$ )
-e - negative epsilon (slope ==> $\beta1$ )
-
-The task is to estimate the Log(C) using linear regression
+$\alpha$ - constant (Y intercept ==> $\beta0$ )
+$\beta$ - slope
+e - error term
 
 Hypothesis :
 
@@ -40,7 +45,7 @@ if p_value < 0.05 we accept the Alternative hypothesis (or reject the Null hypot
 **Interpretation of the coefficients :**
 
 [FAQ How do I interpret a regression model when some variables are log transformed? (ucla.edu)](https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faqhow-do-i-interpret-a-regression-model-when-some-variables-are-log-transformed/)
-expected_change_in_sales (change in price by 1% ** beta_coefficient ($\beta1$)) - 1
+expected_change_in_sales = (change in price by 1% ** beta_coefficient ($\beta1$)) - 1
 
 =====================================================================
 
@@ -101,7 +106,7 @@ Books :
 # Features for modeling :
 - promotion_fg
 - calendar features (e.g. week, month)
-- 
+
 
 
 # Tags

@@ -6,6 +6,7 @@
 	- [Interpreting complex models with SHAP values | by Gabriel Tseng | Medium](https://medium.com/@gabrieltseng/interpreting-complex-models-with-shap-values-1c187db6ec83)
 	- [All You Need to Know About SHAP for Explainable AI? | by Isha Choudhary | Medium](https://medium.com/@shahooda637/all-you-need-to-know-about-shap-for-explainable-ai-8ad35a05e6ec)
 	- [A new perspective on Shapley values, part I: Intro to Shapley and SHAP | Cake or Math: A Data/Science Blog (edden-gerber.github.io)](https://edden-gerber.github.io/shapley-part-1/)
+	- [Explainable AI with TensorFlow, Keras and SHAP | Jan Kirenz](https://www.kirenz.com/post/2022-06-17-explainable-ai-with-tensorflow-keras-and-shap/)
 	- [Using SHAP Values for Model Interpretability in Machine Learning - KDnuggets](https://www.kdnuggets.com/2023/08/shap-values-model-interpretability-machine-learning.html#:~:text=What%20are%20SHAP%20Values%3F,is%20considered%20a%20%22player%22.)
 		- [SHAP](https://shap.readthedocs.io/en/latest/index.html) values are based on Shapley values from game theory. In game theory, Shapley values help determine how much each player in a collaborative game has contributed to the total payout.
 		- For a machine learning model, each feature is considered a "player".

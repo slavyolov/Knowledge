@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/Chatbots and LLM.md",
+                "file": "Linear models/Linear regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sutton",
+                "query": "SHap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/Chatbots and LLM.md",
+                "file": "Linear models/Linear regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/Chatbots and LLM.md",
+                "file": "Linear models/Linear regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/Chatbots and LLM.md"
+                "file": "Linear models/Linear regression.md"
               }
             }
           },
@@ -204,15 +204,24 @@
   },
   "active": "edb3882abbdfebe1",
   "lastOpenFiles": [
+    "Pasted image 20240117104357.png",
+    "Linear models/GLM.md",
+    "Linear models/Linear regression.md",
+    "Linear models/Log-log model (elasticities).md",
+    "Linear models/Two stage least squares (2SLS).md",
+    "Pricing/Reading list.md",
+    "XAI - Model analysis/SHAP post hoc model analysis.md",
+    "XAI - Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
+    "Pricing/Approaches for dynamic pricing.md",
+    "Pricing/Resources",
+    "Pricing/Thompson sampling.md",
+    "Pricing/Notes master thesis.md",
     "Pricing/Medium reading lists.md",
+    "Pricing/Contextual Bandits.md",
+    "Pricing/3rd party tools.md",
     "NLP/Chatbots and LLM.md",
     "NLP/Named Entity Recognition (NER)/Overview.md",
     "Toolset.md",
-    "Pricing/Approaches for dynamic pricing.md",
-    "Pricing/Contextual Bandits.md",
-    "Pricing/3rd party tools.md",
-    "Pricing/Notes master thesis.md",
-    "Pricing/Thompson sampling.md",
     "Reinforcement Learning/Multi-armed bandits and Contextual Bandits.md",
     "Reinforcement Learning/Reinforcement Learning.md",
     "Reinforcement Learning/Resources.md",
@@ -227,20 +236,11 @@
     "Tools/Flow charts.md",
     "Untitled",
     "Reinforcement Learning/Contextual bandit problems.md",
-    "2023-02-09.md",
-    "Linear models/Log-log model (elasticities).md",
     "Pricing",
-    "Neural Networks/SU project - Credit card fraud dataset.md",
-    "Neural Networks/SU lectures.md",
-    "Neural Networks/Guides.md",
-    "Model analysis/SHAP post hoc model analysis.md",
-    "Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
-    "Linear models/Two stage least squares (2SLS).md",
     "Cheet Sheets/ML_and_Data_Science.pdf",
     "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf",
     "Timeseries/Books",
-    "Model analysis",
-    "ML OPS",
+    "XAI - Model analysis",
     "Untitled 1.canvas"
   ]
 }
