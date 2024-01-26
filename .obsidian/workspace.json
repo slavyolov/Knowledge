@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear models/Linear regression.md",
+                "file": "Linear models/Assumptions.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SHap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,29 +125,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "904b5b5894118af2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Linear models/Linear regression.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "88ecfbeaff81b4eb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear models/Linear regression.md",
+                "file": "Linear models/Assumptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear models/Linear regression.md"
+                "file": "Linear models/Assumptions.md"
               }
             }
           },
@@ -186,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -202,23 +186,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edb3882abbdfebe1",
+  "active": "4a069fb8d8a5fcad",
   "lastOpenFiles": [
-    "Pasted image 20240117104357.png",
-    "Linear models/GLM.md",
-    "Linear models/Linear regression.md",
-    "Linear models/Log-log model (elasticities).md",
     "Linear models/Two stage least squares (2SLS).md",
+    "Linear models/Assumptions.md",
+    "Linear models/GLM.md",
     "Pricing/Reading list.md",
+    "Pricing/3rd party tools.md",
+    "Pricing/Thompson sampling.md",
+    "Tools/Git.md",
+    "Pricing/Medium reading lists.md",
+    "Dictionary.md",
+    "Tools/Flow charts.md",
+    "Tools/Splunk.md",
+    "Linear models/Linear regression.md",
+    "Pasted image 20240117104357.png",
+    "Linear models/Log-log model (elasticities).md",
     "XAI - Model analysis/SHAP post hoc model analysis.md",
     "XAI - Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
     "Pricing/Approaches for dynamic pricing.md",
     "Pricing/Resources",
-    "Pricing/Thompson sampling.md",
     "Pricing/Notes master thesis.md",
-    "Pricing/Medium reading lists.md",
     "Pricing/Contextual Bandits.md",
-    "Pricing/3rd party tools.md",
     "NLP/Chatbots and LLM.md",
     "NLP/Named Entity Recognition (NER)/Overview.md",
     "Toolset.md",
@@ -228,14 +217,10 @@
     "Pricing/Papers/Thompson Sampling for Dynamic Pricing.pdf",
     "Pricing/Papers/Dynamic Pricing and Learning - Historical Origins, Current Research, and New Directions.pdf",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
-    "Dictionary.md",
     "Pricing/Papers",
-    "Tools/Splunk.md",
     "Master Thesis ideas and plan.md",
     "Pasted image 20231221115532.png",
-    "Tools/Flow charts.md",
     "Untitled",
-    "Reinforcement Learning/Contextual bandit problems.md",
     "Pricing",
     "Cheet Sheets/ML_and_Data_Science.pdf",
     "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf",
