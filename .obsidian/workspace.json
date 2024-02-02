@@ -23,11 +23,9 @@
             "id": "688236e7174cfc62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Pricing/Medium reading lists.md",
-                "mode": "source",
-                "source": false
+                "file": "Pricing/Books/Pricing and Revenue optimization - Robert L. Phillips.pdf"
               }
             }
           },
@@ -61,14 +59,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+                "file": "Clustering/Clustering information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "838717623673bb6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logarithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Master thesis",
+                "query": "master thes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+                "file": "Pricing/Books/Pricing and Revenue optimization - Robert L. Phillips.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master thesis (МАГИСТЪРСКА ТЕЗА).md"
+                "file": "Pricing/Books/Pricing and Revenue optimization - Robert L. Phillips.pdf"
               }
             }
           },
@@ -188,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+                "file": "Pricing/Books/Pricing and Revenue optimization - Robert L. Phillips.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,8 +225,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a98286e83a448455",
+  "active": "688236e7174cfc62",
   "lastOpenFiles": [
+    "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+    "Pricing/Books/Pricing and Revenue optimization - Robert L. Phillips.pdf",
+    "Pricing/Books",
+    "Pricing/Medium reading lists.md",
+    "Logarithms.md",
+    "Spectral clustering.md",
+    "Clustering/Clustering information.md",
+    "Clustering/Clustering mixed data.md",
     "Functions/Scipy curve_fit.md",
     "Functions/Decay functions.md",
     "Untitled 2.md",
@@ -232,7 +249,6 @@
     "Pricing/3rd party tools.md",
     "Pricing/Thompson sampling.md",
     "Tools/Git.md",
-    "Pricing/Medium reading lists.md",
     "Dictionary.md",
     "Tools/Flow charts.md",
     "Tools/Splunk.md",
@@ -241,12 +257,6 @@
     "XAI - Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
     "Pricing/Approaches for dynamic pricing.md",
     "Pricing/Resources",
-    "Pricing/Notes master thesis.md",
-    "Pricing/Contextual Bandits.md",
-    "NLP/Chatbots and LLM.md",
-    "NLP/Named Entity Recognition (NER)/Overview.md",
-    "Toolset.md",
-    "Reinforcement Learning/Multi-armed bandits and Contextual Bandits.md",
     "Pricing/Papers/Thompson Sampling for Dynamic Pricing.pdf",
     "Pricing/Papers/Dynamic Pricing and Learning - Historical Origins, Current Research, and New Directions.pdf",
     "Pricing/Papers",
@@ -254,8 +264,6 @@
     "Pricing",
     "Cheet Sheets/ML_and_Data_Science.pdf",
     "Books/An Introduction to Statistical Learning with Applications in R Second Edition.pdf",
-    "Timeseries/Books",
-    "XAI - Model analysis",
     "Untitled 1.canvas"
   ]
 }
