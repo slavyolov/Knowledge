@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayesian statistics/Resources.md",
+                "file": "Toolset.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "master thes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bayesian statistics/Resources.md",
+                "file": "Toolset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bayesian statistics/Resources.md"
+                "file": "Toolset.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bayesian statistics/Resources.md",
+                "file": "Toolset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,8 +241,11 @@
   },
   "active": "37ad7287f85ccd80",
   "lastOpenFiles": [
-    "Reinforcement Learning/Multi armed bandits/Papers.md",
+    "Functions/Decay functions.md",
+    "Dictionary.md",
+    "Toolset.md",
     "Bayesian statistics/Resources.md",
+    "Reinforcement Learning/Multi armed bandits/Papers.md",
     "Bayesian statistics",
     "Reinforcement Learning/Multi-armed bandits and Contextual Bandits.md",
     "Reinforcement Learning/Multi armed bandits",
@@ -255,7 +258,6 @@
     "Clustering/Clustering information.md",
     "Clustering/Clustering mixed data.md",
     "Functions/Scipy curve_fit.md",
-    "Functions/Decay functions.md",
     "Untitled 2.md",
     "Functions",
     "Linear Regression.md",
@@ -268,11 +270,9 @@
     "Pricing/3rd party tools.md",
     "Pricing/Thompson sampling.md",
     "Tools/Git.md",
-    "Dictionary.md",
     "Tools/Flow charts.md",
     "Tools/Splunk.md",
     "Pasted image 20240117104357.png",
-    "XAI - Model analysis/SHAP post hoc model analysis.md",
     "Pricing/Resources",
     "Pricing/Papers/Thompson Sampling for Dynamic Pricing.pdf",
     "Pricing/Papers/Dynamic Pricing and Learning - Historical Origins, Current Research, and New Directions.pdf",

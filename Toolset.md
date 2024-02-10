@@ -10,4 +10,17 @@
 	- 
 - Benchmarks :
 		[Database-like ops benchmark (duckdblabs.github.io)](https://duckdblabs.github.io/db-benchmark/)
-		
+
+- **Vulture (library for dead code detection)**
+	- Vulture [jendrikseipp/vulture: Find dead Python code (github.com)](https://github.com/jendrikseipp/vulture)
+		- [vulture · PyPI](https://pypi.org/project/vulture/)
+		- Examples :
+
+```python
+# check file
+vulture my_script.py --min-confidence 100
+# check directory
+vulture directory --min-confidence 100
+```
+
+- NEXT THINGIE
