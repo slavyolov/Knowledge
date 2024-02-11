@@ -25,6 +25,6 @@
 			- #uniform_prior 
 - [Logistic function](https://en.wikipedia.org/wiki/Logistic_function)
 	- A **logistic function** or **logistic curve** is a common S-shaped curve ([sigmoid curve](https://en.wikipedia.org/wiki/Sigmoid_function "Sigmoid function")) with the equation
-
+- µ - population mean
 
 др. Пандев - края на февруари - март

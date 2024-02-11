@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary.md",
+                "file": "Reinforcement Learning/Multi armed bandits/Papers.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Toolset.md",
+                "file": "Reinforcement Learning/Multi armed bandits/Papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Toolset.md"
+                "file": "Reinforcement Learning/Multi armed bandits/Papers.md"
               }
             }
           },
@@ -211,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Toolset.md",
+                "file": "Reinforcement Learning/Multi armed bandits/Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,13 +240,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37ad7287f85ccd80",
+  "active": "e9a9354cf0d85186",
   "lastOpenFiles": [
-    "Functions/Decay functions.md",
-    "Dictionary.md",
-    "Toolset.md",
-    "Bayesian statistics/Resources.md",
+    "Reinforcement Learning/Multi armed bandits/UCB1.md",
+    "Reinforcement Learning/Reinforcement Learning.md",
     "Reinforcement Learning/Multi armed bandits/Papers.md",
+    "Dictionary.md",
+    "Linear models/Assumptions.md",
+    "Toolset.md",
+    "Functions/Decay functions.md",
+    "Bayesian statistics/Resources.md",
     "Bayesian statistics",
     "Reinforcement Learning/Multi-armed bandits and Contextual Bandits.md",
     "Reinforcement Learning/Multi armed bandits",
@@ -264,14 +268,11 @@
     "Linear models/Linear regression.md",
     "Linear models/Two stage least squares (2SLS).md",
     "Linear models/Log-log model (elasticities).md",
-    "Linear models/Assumptions.md",
     "Linear models/GLM.md",
     "Pricing/Reading list.md",
     "Pricing/3rd party tools.md",
     "Pricing/Thompson sampling.md",
     "Tools/Git.md",
-    "Tools/Flow charts.md",
-    "Tools/Splunk.md",
     "Pasted image 20240117104357.png",
     "Pricing/Resources",
     "Pricing/Papers/Thompson Sampling for Dynamic Pricing.pdf",
