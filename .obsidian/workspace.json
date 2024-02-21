@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Toolset.md",
+                "file": "GIT/GitHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vulture",
+                "query": "tag:#github",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Toolset.md",
+                "file": "GIT/GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Toolset.md"
+                "file": "GIT/GitHub.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Toolset.md",
+                "file": "GIT/GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,14 +240,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9a9354cf0d85186",
+  "active": "7e2c0f4340274820",
   "lastOpenFiles": [
     "Reinforcement Learning/Multi armed bandits/Papers.md",
+    "Toolset.md",
+    "GIT/GitHub.md",
+    "Untitled 3.md",
+    "Untitled.md",
+    "GIT",
     "Reinforcement Learning/Multi armed bandits/UCB1.md",
     "Reinforcement Learning/Reinforcement Learning.md",
     "Dictionary.md",
     "Linear models/Assumptions.md",
-    "Toolset.md",
     "Functions/Decay functions.md",
     "Bayesian statistics/Resources.md",
     "Bayesian statistics",
@@ -270,16 +274,12 @@
     "Linear models/Log-log model (elasticities).md",
     "Linear models/GLM.md",
     "Pricing/Reading list.md",
-    "Pricing/3rd party tools.md",
-    "Pricing/Thompson sampling.md",
-    "Tools/Git.md",
     "Pasted image 20240117104357.png",
     "Pricing/Resources",
     "Pricing/Papers/Thompson Sampling for Dynamic Pricing.pdf",
     "Pricing/Papers/Dynamic Pricing and Learning - Historical Origins, Current Research, and New Directions.pdf",
     "Pricing/Papers",
     "Pasted image 20231221115532.png",
-    "Pricing",
     "Untitled 1.canvas"
   ]
 }
