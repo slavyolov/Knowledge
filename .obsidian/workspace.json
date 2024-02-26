@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/GitHub.md",
+                "file": "NLP/Chatbots/DESIGN,  ARCHITECUTRE, AND  APPLICATIONS.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#github",
+                "query": "# tag:#design",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/GitHub.md",
+                "file": "NLP/Chatbots/DESIGN,  ARCHITECUTRE, AND  APPLICATIONS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/GitHub.md"
+                "file": "NLP/Chatbots/DESIGN,  ARCHITECUTRE, AND  APPLICATIONS.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/GitHub.md",
+                "file": "NLP/Chatbots/DESIGN,  ARCHITECUTRE, AND  APPLICATIONS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,6 +242,11 @@
   },
   "active": "7e2c0f4340274820",
   "lastOpenFiles": [
+    "NLP/Chatbots/Chatbots history.md",
+    "NLP/Chatbots/DESIGN,  ARCHITECUTRE, AND  APPLICATIONS.md",
+    "NLP/Chatbots and LLM.md",
+    "NLP/Chatbots",
+    "Linear models/Assumptions.md",
     "Reinforcement Learning/Multi armed bandits/Papers.md",
     "Toolset.md",
     "GIT/GitHub.md",
@@ -251,7 +256,6 @@
     "Reinforcement Learning/Multi armed bandits/UCB1.md",
     "Reinforcement Learning/Reinforcement Learning.md",
     "Dictionary.md",
-    "Linear models/Assumptions.md",
     "Functions/Decay functions.md",
     "Bayesian statistics/Resources.md",
     "Bayesian statistics",
@@ -271,14 +275,10 @@
     "Linear Regression.md",
     "Linear models/Linear regression.md",
     "Linear models/Two stage least squares (2SLS).md",
-    "Linear models/Log-log model (elasticities).md",
-    "Linear models/GLM.md",
-    "Pricing/Reading list.md",
     "Pasted image 20240117104357.png",
     "Pricing/Resources",
     "Pricing/Papers/Thompson Sampling for Dynamic Pricing.pdf",
     "Pricing/Papers/Dynamic Pricing and Learning - Historical Origins, Current Research, and New Directions.pdf",
-    "Pricing/Papers",
     "Pasted image 20231221115532.png",
     "Untitled 1.canvas"
   ]
