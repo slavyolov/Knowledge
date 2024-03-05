@@ -47,11 +47,19 @@
             "id": "e9a9354cf0d85186",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "NLP/Chatbots/DESIGN,  ARCHITECUTRE, AND  APPLICATIONS.md",
-                "mode": "source",
-                "source": false
+                "file": "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf"
+              }
+            }
+          },
+          {
+            "id": "53397676c8ee3dad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
               }
             }
           },
@@ -121,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "# tag:#design",
+                "query": "MLP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,8 +154,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/Chatbots/DESIGN,  ARCHITECUTRE, AND  APPLICATIONS.md",
+                "file": "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/Chatbots/DESIGN,  ARCHITECUTRE, AND  APPLICATIONS.md"
+                "file": "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf"
               }
             }
           },
@@ -212,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/Chatbots/DESIGN,  ARCHITECUTRE, AND  APPLICATIONS.md",
+                "file": "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,13 +247,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e2c0f4340274820",
+  "active": "e9a9354cf0d85186",
   "lastOpenFiles": [
-    "NLP/Chatbots/Chatbots history.md",
+    "NLP/Sofia University slides/1. Text Data Processing and Preparation.pdf",
+    "NLP/Resources/Code.md",
+    "Clustering/Clustering information.md",
+    "2024-02-26.md",
     "NLP/Chatbots/DESIGN,  ARCHITECUTRE, AND  APPLICATIONS.md",
+    "Linear models/Assumptions.md",
+    "NLP/Chatbots/Chatbots history.md",
     "NLP/Chatbots and LLM.md",
     "NLP/Chatbots",
-    "Linear models/Assumptions.md",
     "Reinforcement Learning/Multi armed bandits/Papers.md",
     "Toolset.md",
     "GIT/GitHub.md",
@@ -267,18 +278,13 @@
     "Pricing/Medium reading lists.md",
     "Logarithms.md",
     "Spectral clustering.md",
-    "Clustering/Clustering information.md",
     "Clustering/Clustering mixed data.md",
     "Functions/Scipy curve_fit.md",
     "Untitled 2.md",
     "Functions",
-    "Linear Regression.md",
-    "Linear models/Linear regression.md",
-    "Linear models/Two stage least squares (2SLS).md",
     "Pasted image 20240117104357.png",
     "Pricing/Resources",
     "Pricing/Papers/Thompson Sampling for Dynamic Pricing.pdf",
-    "Pricing/Papers/Dynamic Pricing and Learning - Historical Origins, Current Research, and New Directions.pdf",
     "Pasted image 20231221115532.png",
     "Untitled 1.canvas"
   ]
