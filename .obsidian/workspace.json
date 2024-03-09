@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Gen AI/Courses/Generative AI with Large Language Models.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -251,9 +251,11 @@
   },
   "active": "e9a9354cf0d85186",
   "lastOpenFiles": [
-    "Gen AI/Curated list of applications.md",
-    "Gen AI/Courses",
+    "Gen AI/Courses/Resources/Screen Shot 2024-03-09 at 15.15.11.png",
     "Gen AI/Courses/Generative AI with Large Language Models.md",
+    "Gen AI/Curated list of applications.md",
+    "Gen AI/Courses/Resources",
+    "Gen AI/Courses",
     "GIT/GitHub.md",
     "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf",
     "NLP/Sofia University slides/1. Text Data Processing and Preparation.pdf",
@@ -283,7 +285,6 @@
     "Bayesian statistics",
     "Reinforcement Learning/Multi-armed bandits and Contextual Bandits.md",
     "Reinforcement Learning/Multi armed bandits",
-    "Pricing/Books/Pricing and Revenue optimization - Robert L. Phillips.pdf",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
     "Pricing/Medium reading lists.md",
     "Pasted image 20240117104357.png",
