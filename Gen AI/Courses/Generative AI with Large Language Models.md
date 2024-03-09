@@ -58,7 +58,7 @@ COMPLETION: The capital of Bulgaria is Sofia
 
 [Transformers architecture | Coursera](https://www.coursera.org/learn/generative-ai-with-llms/lecture/3AqWI/transformers-architecture)
 
-
+### ==Transformers==
 - **Early RNN implementations :**
 	- Learn the relevance and context to each word next to its neighbor.
 	- ![](Resources/early_RNNs.png)
@@ -67,5 +67,19 @@ COMPLETION: The capital of Bulgaria is Sofia
 	- The power in the transformer architecture lies in its **ability to learn the relevance and context of all of the words in a sentence**
 	- ![](Resources/Transformers.png)
 
+
+### ==Attention weights==
+
+- ![](Resources/attention_weights.png)
+
+- Transformers apply attention weights to those relationships so that the model learns the relevance of each word to each other words no matter where they are in the input.
+
+- This gives the algorithm the ability to learn **who has the book**, *who could have the book*, and if it's even relevant to the wider context of the document.
+
+### ==Attention map==
+![](Resources/attention_map.png)
+
+
+
 # Tags 
-#LLMs, #prompt, #context_window, #completion, #inference, 
+#LLMs, #prompt, #context_window, #completion, #inference, #transformers, #attemtion_map, 
