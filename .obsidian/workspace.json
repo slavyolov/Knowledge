@@ -47,9 +47,11 @@
             "id": "e9a9354cf0d85186",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf"
+                "file": "Gen AI/Courses/Generative AI with Large Language Models.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -174,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf",
+                "file": "Gen AI/Courses/Generative AI with Large Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf"
+                "file": "Gen AI/Courses/Generative AI with Large Language Models.md"
               }
             }
           },
@@ -219,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf",
+                "file": "Gen AI/Courses/Generative AI with Large Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,13 +251,17 @@
   },
   "active": "e9a9354cf0d85186",
   "lastOpenFiles": [
+    "Gen AI/Curated list of applications.md",
+    "Gen AI/Courses",
+    "Gen AI/Courses/Generative AI with Large Language Models.md",
+    "GIT/GitHub.md",
+    "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf",
     "NLP/Sofia University slides/1. Text Data Processing and Preparation.pdf",
     "NLP/Chatbots/Chatbots history.md",
     "NLP/Chatbots/DESIGN,  ARCHITECUTRE, AND  APPLICATIONS.md",
     "NLP/Chatbots and LLM.md",
     "NLP/Resources/Code.md",
     "NLP/Resources/Big files.md",
-    "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf",
     "NLP/Resources/practical-guide-to-sentiment-analysis (1).pdf",
     "NLP/Resources/Hristova, Gloria. Text Analytics in Bulgarian An Overview and Future Directions.pdf",
     "NLP/Named Entity Recognition (NER)/Overview.md",
@@ -266,7 +272,6 @@
     "Linear models/Assumptions.md",
     "NLP/Chatbots",
     "Reinforcement Learning/Multi armed bandits/Papers.md",
-    "GIT/GitHub.md",
     "Untitled 3.md",
     "Untitled.md",
     "GIT",
@@ -280,10 +285,7 @@
     "Reinforcement Learning/Multi armed bandits",
     "Pricing/Books/Pricing and Revenue optimization - Robert L. Phillips.pdf",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
-    "Pricing/Books",
     "Pricing/Medium reading lists.md",
-    "Logarithms.md",
-    "Spectral clustering.md",
     "Pasted image 20240117104357.png",
     "Pasted image 20231221115532.png",
     "Untitled 1.canvas"
