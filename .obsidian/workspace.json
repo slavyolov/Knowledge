@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "cd0ee4cb5776dbea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gen AI/Courses/Generative AI with Large Language Models.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53397676c8ee3dad",
             "type": "leaf",
             "state": {
@@ -102,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -249,10 +261,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9a9354cf0d85186",
+  "active": "cd0ee4cb5776dbea",
   "lastOpenFiles": [
+    "Gen AI/Courses/Resources/early_RNNs.png",
     "Gen AI/Courses/Resources/prompts_and_completions.png",
     "Gen AI/Courses/Generative AI with Large Language Models.md",
+    "Gen AI/Courses/Resources/Transformers.png",
+    "Pasted image 20240309161306.png",
+    "Obsidian TIPS.md",
     "Gen AI/Curated list of applications.md",
     "Gen AI/Courses/Resources",
     "Gen AI/Courses",
@@ -286,7 +302,6 @@
     "Reinforcement Learning/Multi-armed bandits and Contextual Bandits.md",
     "Reinforcement Learning/Multi armed bandits",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
-    "Pricing/Medium reading lists.md",
     "Pasted image 20240117104357.png",
     "Pasted image 20231221115532.png",
     "Untitled 1.canvas"
