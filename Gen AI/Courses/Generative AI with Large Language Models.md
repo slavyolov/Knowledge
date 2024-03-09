@@ -32,6 +32,7 @@ COMPLETION: The capital of Bulgaria is Sofia
 The prompt is passed to the model, the model then predicts the next words, and generates an answer
 
 
-![[Screen Shot 2024-03-09 at 15.15.11.png]]
+![](Resources/prompts_and_completions.png)
+
 # Tags 
 #LLMs, #prompt, 
