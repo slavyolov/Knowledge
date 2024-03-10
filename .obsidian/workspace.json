@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Gen AI/Courses/Generative AI with Large Language Models.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MLP",
+                "query": "tag:#positonal_encoding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -263,14 +264,20 @@
   },
   "active": "cd0ee4cb5776dbea",
   "lastOpenFiles": [
-    "Gen AI/Courses/Resources/attention_weights.png",
-    "Gen AI/Courses/Resources/attention_map.png",
-    "Gen AI/Courses/Resources/Screen Shot 2024-03-09 at 16.31.04.png",
-    "Gen AI/Courses/Resources/early_RNNs.png",
-    "Gen AI/Courses/Resources/prompts_and_completions.png",
+    "Gen AI/Courses/Resources/Positional_encoding_matrix_example.png",
+    "Gen AI/Courses/Resources/PE3.png",
+    "Gen AI/Courses/Resources/positional_encoding.png",
+    "Gen AI/Courses/Resources/adsaa.png",
+    "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 14.59.34.png",
+    "Gen AI/Courses/Resources/ad.png",
+    "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 14.58.24.png",
+    "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 14.55.31.png",
+    "Gen AI/Courses/Resources/embeddings_three_dimensional_space.png",
+    "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 14.30.20.png",
+    "Gen AI/Courses/Resources/transformers_step2_embeddings.png",
+    "Gen AI/Courses/Resources/trf_step1_tokenization.textClipping",
+    "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 0..textClipping",
     "Gen AI/Courses/Generative AI with Large Language Models.md",
-    "Gen AI/Courses/Resources/Transformers.png",
-    "Pasted image 20240309161306.png",
     "Obsidian TIPS.md",
     "Gen AI/Curated list of applications.md",
     "Gen AI/Courses/Resources",
@@ -301,12 +308,8 @@
     "Dictionary.md",
     "Functions/Decay functions.md",
     "Bayesian statistics/Resources.md",
-    "Bayesian statistics",
     "Reinforcement Learning/Multi-armed bandits and Contextual Bandits.md",
-    "Reinforcement Learning/Multi armed bandits",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
-    "Pasted image 20240117104357.png",
-    "Pasted image 20231221115532.png",
     "Untitled 1.canvas"
   ]
 }

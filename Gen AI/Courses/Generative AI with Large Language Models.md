@@ -54,7 +54,7 @@ COMPLETION: The capital of Bulgaria is Sofia
 
 > 	The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.
 
-## L4 : transformers architecture
+## L4 : Transformers architecture
 
 [Transformers architecture | Coursera](https://www.coursera.org/learn/generative-ai-with-llms/lecture/3AqWI/transformers-architecture)
 
@@ -79,7 +79,42 @@ COMPLETION: The capital of Bulgaria is Sofia
 ### ==Attention map==
 ![](Resources/attention_map.png)
 
+### ==Self-attention==
+
+- The word book is strongly connected with or paying attention to the word teacher and the word student. 
+
+- This is called **self-attention** and the ability to learn a tension in this way across the whole input significantly approves the model's ability to encode language
+
+- ![](Resources/self_attention.png)
+
+### ==Transformer architecture==
+
+#### **Architecture**
+- ![](Resources/transformer%20architecture.png)
+
+#### ==**Simplified diagram**==
+- ![](Resources/transformer_simplified_diagram.png)
+
+- The transformer architecture is split into two distinct parts, the encoder and the decoder.
+
+- These components work in conjunction with each other, and they share a number of similarities.
+
+#### ==**Steps**==
+
+- ![](Resources/transformers_step1_tokenization.png)
+
+- ![](Resources/transformers_step2_embeddings.png)
+
+- ![](Resources/embeddings_three_dimensional_space.png)
+- ![](Resources/positional_encoding.png)
+
+- **==Read the following article for an introduction to the positional encoding matrix==**
+	- [A Gentle Introduction to Positional Encoding in Transformer Models](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/)
+
+
+	- The following table shows the positional encoding matrix for phrase “I am a robot,” with n=100 and d=4. T 
+	- ![](Resources/Positional_encoding_matrix_example.png)
 
 
 # Tags 
-#LLMs, #prompt, #context_window, #completion, #inference, #transformers, #attemtion_map, 
+#LLMs, #prompt, #context_window, #completion, #inference, #transformers, #attention_weights, #attention_map, #embedding, #tokenization, #encoder, #decoder, #positonal_encoding, #positonal_encoding_matrix, #sine, #cosine 
