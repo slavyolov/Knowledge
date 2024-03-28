@@ -119,6 +119,6 @@ COMPLETION: The capital of Bulgaria is Sofia
 
 - Guide to understand the positional encoding : [Positional Encoding. This article is the second in The… | by Hunter Phillips | Medium](https://medium.com/@hunter-j-phillips/positional-encoding-7a93db4109e6)
 
-TEST TEST
+TEST TEST -> We shou
 # Tags 
 #LLMs, #prompt, #context_window, #completion, #inference, #transformers, #attention_weights, #attention_map, #embedding, #tokenization, #encoder, #decoder, #positonal_encoding, #positonal_encoding_matrix, #sine, #cosine 
