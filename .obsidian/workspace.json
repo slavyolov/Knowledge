@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gen AI/Courses/Generative AI with Large Language Models.md",
+                "file": "Gen AI/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#positonal_encoding",
+                "query": "transfer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gen AI/Courses/Generative AI with Large Language Models.md",
+                "file": "Gen AI/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gen AI/Courses/Generative AI with Large Language Models.md"
+                "file": "Gen AI/Resources.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gen AI/Courses/Generative AI with Large Language Models.md",
+                "file": "Gen AI/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,8 +262,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd0ee4cb5776dbea",
+  "active": "7e2c0f4340274820",
   "lastOpenFiles": [
+    "Gen AI/Courses/Generative AI with Large Language Models.md",
+    "Gen AI/Resources.md",
+    "Gen AI/Courses/Resources/attention_weights.png",
+    "Gen AI/Courses/Resources/attention_map.png",
+    "Gen AI/Curated list of applications.md",
     "Gen AI/Courses/Resources/Positional_encoding_matrix_example.png",
     "Gen AI/Courses/Resources/PE3.png",
     "Gen AI/Courses/Resources/positional_encoding.png",
@@ -272,14 +277,9 @@
     "Gen AI/Courses/Resources/ad.png",
     "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 14.58.24.png",
     "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 14.55.31.png",
-    "Gen AI/Courses/Resources/embeddings_three_dimensional_space.png",
-    "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 14.30.20.png",
-    "Gen AI/Courses/Resources/transformers_step2_embeddings.png",
     "Gen AI/Courses/Resources/trf_step1_tokenization.textClipping",
     "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 0..textClipping",
-    "Gen AI/Courses/Generative AI with Large Language Models.md",
     "Obsidian TIPS.md",
-    "Gen AI/Curated list of applications.md",
     "Gen AI/Courses/Resources",
     "Gen AI/Courses",
     "GIT/GitHub.md",
