@@ -56,5 +56,7 @@ commands =
     black --line-length=120 databricks
 ```
 
+- **Transformers library :**
+	- [huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (github.com)](https://github.com/huggingface/transformers)
 # Tags
-#tox, 
+#tox, #transformers 
