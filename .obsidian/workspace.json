@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "aa865e9d6d5526ff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "e9a9354cf0d85186",
             "type": "leaf",
             "state": {
@@ -104,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,7 +261,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37ad7287f85ccd80",
+  "active": "aa865e9d6d5526ff",
   "lastOpenFiles": [
     "Gen AI/🔥 Hugging Face.md",
     "Gen AI/Curated list of applications.md",
