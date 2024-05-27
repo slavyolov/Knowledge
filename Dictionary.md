@@ -25,6 +25,9 @@
 			- #uniform_prior 
 - [Logistic function](https://en.wikipedia.org/wiki/Logistic_function)
 	- A **logistic function** or **logistic curve** is a common S-shaped curve ([sigmoid curve](https://en.wikipedia.org/wiki/Sigmoid_function "Sigmoid function")) with the equation
-- µ - population mean
-
-др. Пандев - края на февруари - март
+- **µ - population mean**
+- **[Gaussian Distribution and Gaussian Noise](https://samanemami.medium.com/the-role-of-the-gaussian-distribution-in-machine-learning-5b1c04f87967)**
+	- Adding Gaussian noise to data involves introducing random variations following a Gaussian or normal distribution. The process involves generating random numbers from a Gaussian distribution and adding them to the original data points. **The mean and standard deviation of the Gaussian distribution determine the characteristics of the added noise**. The mean of the Gaussian noise determines the shift or offset applied to the data, while the standard deviation controls the spread or magnitude of the noise.
+	-  Tags: #noise, #gausisian , #distribution
+- **[GAM: generalized additive models](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/)**
+	- Tags : #GAM

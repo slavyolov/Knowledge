@@ -47,9 +47,11 @@
             "id": "aa865e9d6d5526ff",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Pricing/Reading list.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -143,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hugging_faces",
+                "query": "Pricing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gen AI/Courses/Generative AI with Large Language Models.md",
+                "file": "Pricing/Reading list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gen AI/Courses/Generative AI with Large Language Models.md"
+                "file": "Pricing/Reading list.md"
               }
             }
           },
@@ -233,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gen AI/Courses/Generative AI with Large Language Models.md",
+                "file": "Pricing/Reading list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,6 +266,11 @@
   },
   "active": "aa865e9d6d5526ff",
   "lastOpenFiles": [
+    "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
+    "Price Elasticity.md",
+    "Dictionary.md",
+    "Pricing/Reading list.md",
+    "Master Thesis ideas and plan.md",
     "Gen AI/🔥 Hugging Face.md",
     "Gen AI/Curated list of applications.md",
     "Toolset.md",
@@ -304,11 +312,6 @@
     "GIT",
     "Reinforcement Learning/Multi armed bandits/UCB1.md",
     "Reinforcement Learning/Reinforcement Learning.md",
-    "Dictionary.md",
-    "Functions/Decay functions.md",
-    "Bayesian statistics/Resources.md",
-    "Reinforcement Learning/Multi-armed bandits and Contextual Bandits.md",
-    "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
     "Untitled 1.canvas"
   ]
 }
