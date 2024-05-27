@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gen AI/Courses/Generative AI with Large Language Models.md",
+                "file": "Transportation problem (Транспортна задача)/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pricing/Reading list.md",
+                "file": "Transportation problem (Транспортна задача)/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,8 +170,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pricing/Reading list.md",
+                "file": "Transportation problem (Транспортна задача)/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pricing/Reading list.md"
+                "file": "Transportation problem (Транспортна задача)/Notes.md"
               }
             }
           },
@@ -236,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pricing/Reading list.md",
+                "file": "Transportation problem (Транспортна задача)/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,27 +263,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa865e9d6d5526ff",
+  "active": "37ad7287f85ccd80",
   "lastOpenFiles": [
+    "Transportation problem (Транспортна задача)/Resources/transportation_problem.png",
+    "Transportation problem (Транспортна задача)/Notes.md",
+    "Gen AI/Courses/Resources/attention_map.png",
+    "Gen AI/Courses/Resources/prompts_and_completions.png",
+    "Gen AI/Courses/Resources/positional_encoding.png",
+    "Gen AI/Courses/Resources/early_RNNs.png",
+    "Transportation problem (Транспортна задача)/Untitled.md",
+    "Transportation problem (Транспортна задача)/Resources",
+    "Gen AI/Courses/Resources/attention_weights.png",
+    "Gen AI/Courses/Generative AI with Large Language Models.md",
+    "Pricing/Reading list.md",
+    "Transportation problem (Транспортна задача)",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
     "Price Elasticity.md",
     "Dictionary.md",
-    "Pricing/Reading list.md",
     "Master Thesis ideas and plan.md",
     "Gen AI/🔥 Hugging Face.md",
     "Gen AI/Curated list of applications.md",
     "Toolset.md",
-    "Gen AI/Courses/Generative AI with Large Language Models.md",
-    "Gen AI/Courses/Resources/attention_weights.png",
-    "Gen AI/Courses/Resources/attention_map.png",
     "Gen AI/Courses/Resources/Positional_encoding_matrix_example.png",
     "Gen AI/Courses/Resources/PE3.png",
-    "Gen AI/Courses/Resources/positional_encoding.png",
     "Gen AI/Courses/Resources/adsaa.png",
     "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 14.59.34.png",
-    "Gen AI/Courses/Resources/ad.png",
-    "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 14.58.24.png",
-    "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 14.55.31.png",
     "Gen AI/Courses/Resources/trf_step1_tokenization.textClipping",
     "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 0..textClipping",
     "Obsidian TIPS.md",
@@ -305,13 +308,8 @@
     "Clustering/Clustering information.md",
     "2024-02-26.md",
     "Linear models/Assumptions.md",
-    "NLP/Chatbots",
     "Reinforcement Learning/Multi armed bandits/Papers.md",
     "Untitled 3.md",
-    "Untitled.md",
-    "GIT",
-    "Reinforcement Learning/Multi armed bandits/UCB1.md",
-    "Reinforcement Learning/Reinforcement Learning.md",
     "Untitled 1.canvas"
   ]
 }
