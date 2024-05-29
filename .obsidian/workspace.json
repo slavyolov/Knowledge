@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transportation problem (Транспортна задача)/Notes.md",
+                "file": "Gen AI/Retrieval-Augmented Generation (RAG).md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pricing",
+                "query": "tag:#IIR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transportation problem (Транспортна задача)/Notes.md",
+                "file": "Gen AI/Retrieval-Augmented Generation (RAG).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transportation problem (Транспортна задача)/Notes.md"
+                "file": "Gen AI/Retrieval-Augmented Generation (RAG).md"
               }
             }
           },
@@ -235,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transportation problem (Транспортна задача)/Notes.md",
+                "file": "Gen AI/Retrieval-Augmented Generation (RAG).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,8 +266,12 @@
   },
   "active": "37ad7287f85ccd80",
   "lastOpenFiles": [
-    "Transportation problem (Транспортна задача)/Resources/transportation_problem.png",
+    "Gen AI/Courses/Generative AI with Large Language Models.md",
+    "Gen AI/Retrieval-Augmented Generation (RAG).md",
+    "Gen AI/🔥 Hugging Face.md",
+    "Gen AI/Curated list of applications.md",
     "Transportation problem (Транспортна задача)/Notes.md",
+    "Transportation problem (Транспортна задача)/Resources/transportation_problem.png",
     "Gen AI/Courses/Resources/attention_map.png",
     "Gen AI/Courses/Resources/prompts_and_completions.png",
     "Gen AI/Courses/Resources/positional_encoding.png",
@@ -274,15 +279,12 @@
     "Transportation problem (Транспортна задача)/Untitled.md",
     "Transportation problem (Транспортна задача)/Resources",
     "Gen AI/Courses/Resources/attention_weights.png",
-    "Gen AI/Courses/Generative AI with Large Language Models.md",
     "Pricing/Reading list.md",
     "Transportation problem (Транспортна задача)",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
     "Price Elasticity.md",
     "Dictionary.md",
     "Master Thesis ideas and plan.md",
-    "Gen AI/🔥 Hugging Face.md",
-    "Gen AI/Curated list of applications.md",
     "Toolset.md",
     "Gen AI/Courses/Resources/Positional_encoding_matrix_example.png",
     "Gen AI/Courses/Resources/PE3.png",
