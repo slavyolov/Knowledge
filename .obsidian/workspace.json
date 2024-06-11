@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gen AI/Retrieval-Augmented Generation (RAG).md",
+                "file": "Pricing/Reading list.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#IIR",
+                "query": "Pricing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gen AI/Retrieval-Augmented Generation (RAG).md",
+                "file": "Pricing/Reading list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gen AI/Retrieval-Augmented Generation (RAG).md"
+                "file": "Pricing/Reading list.md"
               }
             }
           },
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gen AI/Retrieval-Augmented Generation (RAG).md",
+                "file": "Pricing/Reading list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,8 +266,8 @@
   },
   "active": "37ad7287f85ccd80",
   "lastOpenFiles": [
-    "Gen AI/Courses/Generative AI with Large Language Models.md",
     "Gen AI/Retrieval-Augmented Generation (RAG).md",
+    "Gen AI/Courses/Generative AI with Large Language Models.md",
     "Gen AI/🔥 Hugging Face.md",
     "Gen AI/Curated list of applications.md",
     "Transportation problem (Транспортна задача)/Notes.md",
