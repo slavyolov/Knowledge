@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pricing/Reading list.md",
-                "mode": "source",
+                "file": "XAI - Model analysis/SHAP post hoc model analysis.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pricing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,8 +170,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pricing/Reading list.md",
+                "file": "XAI - Model analysis/SHAP post hoc model analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pricing/Reading list.md"
+                "file": "XAI - Model analysis/SHAP post hoc model analysis.md"
               }
             }
           },
@@ -236,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pricing/Reading list.md",
+                "file": "XAI - Model analysis/SHAP post hoc model analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,6 +265,9 @@
   },
   "active": "37ad7287f85ccd80",
   "lastOpenFiles": [
+    "XAI - Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
+    "2024-06-11.md",
+    "Pricing/Reading list.md",
     "Gen AI/Retrieval-Augmented Generation (RAG).md",
     "Gen AI/Courses/Generative AI with Large Language Models.md",
     "Gen AI/🔥 Hugging Face.md",
@@ -279,7 +281,6 @@
     "Transportation problem (Транспортна задача)/Untitled.md",
     "Transportation problem (Транспортна задача)/Resources",
     "Gen AI/Courses/Resources/attention_weights.png",
-    "Pricing/Reading list.md",
     "Transportation problem (Транспортна задача)",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
     "Price Elasticity.md",
@@ -310,8 +311,6 @@
     "Clustering/Clustering information.md",
     "2024-02-26.md",
     "Linear models/Assumptions.md",
-    "Reinforcement Learning/Multi armed bandits/Papers.md",
-    "Untitled 3.md",
     "Untitled 1.canvas"
   ]
 }
