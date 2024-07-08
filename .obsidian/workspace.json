@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prior",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,8 +182,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -276,7 +275,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06e19b9a31506bfb",
+  "active": "4e4d3e8adf315f4e",
   "lastOpenFiles": [
     "XAI - Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
     "2024-06-11.md",
