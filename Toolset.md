@@ -1,4 +1,6 @@
 - GitHub Desktop - https://desktop.github.com/
+- Delta Lake :
+	- [Delta Lake Time Travel | Delta Lake](https://delta.io/blog/2023-02-01-delta-lake-time-travel/)
 - Obdisidian Vault - https://obsidian.md/
 	- Git tutorial : [obsidian-git-tut-windows/README.md at main · gitobsidiantutorial/obsidian-git-tut-windows](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md)
 	- Obsidian-git plugin : https://github.com/denolehov/obsidian-git/wiki/Installation
@@ -59,4 +61,4 @@ commands =
 - **Transformers library :**
 	- [huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (github.com)](https://github.com/huggingface/transformers)
 # Tags
-#tox, #transformers 
+#tox, #transformers , #databricks , #delta-lake , #time-travel 

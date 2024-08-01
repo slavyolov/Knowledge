@@ -121,14 +121,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logarithms.md",
+                "file": "AB testing/Bayes AB testing.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2565530d00cb78d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Prior",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionary.md",
+                "file": "AB testing/Bayes AB testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionary.md"
+                "file": "AB testing/Bayes AB testing.md"
               }
             }
           },
@@ -247,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary.md",
+                "file": "AB testing/Bayes AB testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,8 +287,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e4d3e8adf315f4e",
+  "active": "838717623673bb6d",
   "lastOpenFiles": [
+    "Dictionary.md",
+    "AB testing/Bayes AB testing.md",
+    "Logarithms.md",
+    "Toolset.md",
+    "Untitled 4.md",
+    "AB testing",
     "XAI - Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
     "2024-06-11.md",
     "Pricing/Reading list.md",
@@ -296,9 +314,7 @@
     "Transportation problem (Транспортна задача)",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
     "Price Elasticity.md",
-    "Dictionary.md",
     "Master Thesis ideas and plan.md",
-    "Toolset.md",
     "Gen AI/Courses/Resources/Positional_encoding_matrix_example.png",
     "Gen AI/Courses/Resources/PE3.png",
     "Gen AI/Courses/Resources/adsaa.png",
@@ -317,12 +333,8 @@
     "NLP/Resources/Code.md",
     "NLP/Resources/Big files.md",
     "NLP/Resources/practical-guide-to-sentiment-analysis (1).pdf",
-    "NLP/Resources/Hristova, Gloria. Text Analytics in Bulgarian An Overview and Future Directions.pdf",
     "NLP/Named Entity Recognition (NER)/Overview.md",
     "Train and test splits.md",
-    "Clustering/Clustering information.md",
-    "2024-02-26.md",
-    "Linear models/Assumptions.md",
     "Untitled 1.canvas"
   ]
 }
