@@ -121,8 +121,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AB testing/Bayes AB testing.md",
-                "mode": "preview",
+                "file": "Reinforcement Learning/Reinforcement Learning.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Prior",
+                "query": "(1 * x)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AB testing/Bayes AB testing.md",
+                "file": "Reinforcement Learning/Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AB testing/Bayes AB testing.md"
+                "file": "Reinforcement Learning/Reinforcement Learning.md"
               }
             }
           },
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AB testing/Bayes AB testing.md",
+                "file": "Reinforcement Learning/Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,15 +287,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "838717623673bb6d",
+  "active": "4e4d3e8adf315f4e",
   "lastOpenFiles": [
-    "Dictionary.md",
+    "2023-02-09.md",
+    "~$test_excel.xlsx",
+    "Reinforcement Learning/Reinforcement Learning.md",
+    "Linear models/Assumptions.md",
+    "XAI - Model analysis/SHAP post hoc model analysis.md",
+    "LGBM/Tips.md",
+    "LGBM",
+    "XAI - Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
+    "Master Thesis ideas and plan.md",
     "AB testing/Bayes AB testing.md",
+    "Dictionary.md",
     "Logarithms.md",
     "Toolset.md",
     "Untitled 4.md",
     "AB testing",
-    "XAI - Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
     "2024-06-11.md",
     "Pricing/Reading list.md",
     "Gen AI/Retrieval-Augmented Generation (RAG).md",
@@ -314,7 +322,6 @@
     "Transportation problem (Транспортна задача)",
     "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
     "Price Elasticity.md",
-    "Master Thesis ideas and plan.md",
     "Gen AI/Courses/Resources/Positional_encoding_matrix_example.png",
     "Gen AI/Courses/Resources/PE3.png",
     "Gen AI/Courses/Resources/adsaa.png",
@@ -326,15 +333,8 @@
     "Gen AI/Courses",
     "GIT/GitHub.md",
     "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf",
-    "NLP/Sofia University slides/1. Text Data Processing and Preparation.pdf",
     "NLP/Chatbots/Chatbots history.md",
     "NLP/Chatbots/DESIGN,  ARCHITECUTRE, AND  APPLICATIONS.md",
-    "NLP/Chatbots and LLM.md",
-    "NLP/Resources/Code.md",
-    "NLP/Resources/Big files.md",
-    "NLP/Resources/practical-guide-to-sentiment-analysis (1).pdf",
-    "NLP/Named Entity Recognition (NER)/Overview.md",
-    "Train and test splits.md",
     "Untitled 1.canvas"
   ]
 }
