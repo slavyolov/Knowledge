@@ -49,8 +49,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary.md",
-                "mode": "preview",
+                "file": "Tree Based Algorithms/LGBM/LGBM Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ca63226423a69f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tree Based Algorithms/LGBM/LGBM Resources.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -138,9 +150,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "415e4e6f8e2cf00f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Entropy and Information gain and.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "(1 * x)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reinforcement Learning/Reinforcement Learning.md",
+                "file": "Tree Based Algorithms/LGBM/LGBM Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reinforcement Learning/Reinforcement Learning.md"
+                "file": "Tree Based Algorithms/LGBM/LGBM Resources.md"
               }
             }
           },
@@ -259,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning/Reinforcement Learning.md",
+                "file": "Tree Based Algorithms/LGBM/LGBM Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,54 +311,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e4d3e8adf315f4e",
+  "active": "4ca63226423a69f2",
   "lastOpenFiles": [
+    "Tree Based Algorithms/LGBM/Resources/decision-tree-classification-algorithm2.png",
+    "Tree Based Algorithms/Bagging vs Boosting.md",
+    "Tree Based Algorithms/Resources/Bagging-Boosting.jpg",
+    "Tree Based Algorithms/Resources",
+    "Resources/Bagging.md",
+    "Resources",
+    "Tree Based Algorithms/LGBM/LGBM Resources.md",
+    "Tree Based Algorithms/LGBM/Resources/pruning.webp",
+    "T.md",
+    "Tree Based Algorithms",
+    "Dictionary.md",
+    "Information Entropy and Information gain and.md",
+    "Gen AI/Courses/Generative AI with Large Language Models.md",
+    "Gen AI/Retrieval-Augmented Generation (RAG).md",
+    "Gen AI/Curated list of applications.md",
+    "Gen AI/🔥 Hugging Face.md",
+    "Gen AI/Courses/Resources/attention_map.png",
+    "Tree Based Algorithms/LGBM/Resources",
+    "Neural Networks/Guides.md",
+    "Statistical Dictionary.md",
     "2023-02-09.md",
     "~$test_excel.xlsx",
     "Reinforcement Learning/Reinforcement Learning.md",
     "Linear models/Assumptions.md",
     "XAI - Model analysis/SHAP post hoc model analysis.md",
-    "LGBM/Tips.md",
-    "LGBM",
+    "Tree Based Algorithms/LGBM",
     "XAI - Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
     "Master Thesis ideas and plan.md",
     "AB testing/Bayes AB testing.md",
-    "Dictionary.md",
     "Logarithms.md",
     "Toolset.md",
     "Untitled 4.md",
     "AB testing",
     "2024-06-11.md",
     "Pricing/Reading list.md",
-    "Gen AI/Retrieval-Augmented Generation (RAG).md",
-    "Gen AI/Courses/Generative AI with Large Language Models.md",
-    "Gen AI/🔥 Hugging Face.md",
-    "Gen AI/Curated list of applications.md",
     "Transportation problem (Транспортна задача)/Notes.md",
     "Transportation problem (Транспортна задача)/Resources/transportation_problem.png",
-    "Gen AI/Courses/Resources/attention_map.png",
     "Gen AI/Courses/Resources/prompts_and_completions.png",
     "Gen AI/Courses/Resources/positional_encoding.png",
     "Gen AI/Courses/Resources/early_RNNs.png",
-    "Transportation problem (Транспортна задача)/Untitled.md",
     "Transportation problem (Транспортна задача)/Resources",
     "Gen AI/Courses/Resources/attention_weights.png",
     "Transportation problem (Транспортна задача)",
-    "Master thesis (МАГИСТЪРСКА ТЕЗА).md",
-    "Price Elasticity.md",
     "Gen AI/Courses/Resources/Positional_encoding_matrix_example.png",
-    "Gen AI/Courses/Resources/PE3.png",
-    "Gen AI/Courses/Resources/adsaa.png",
-    "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 14.59.34.png",
     "Gen AI/Courses/Resources/trf_step1_tokenization.textClipping",
-    "Gen AI/Courses/Resources/Screen Shot 2024-03-10 at 0..textClipping",
-    "Obsidian TIPS.md",
-    "Gen AI/Courses/Resources",
-    "Gen AI/Courses",
-    "GIT/GitHub.md",
-    "NLP/Sofia University slides/2. Text Data Vectorization – From Text to Numbers.pdf",
-    "NLP/Chatbots/Chatbots history.md",
-    "NLP/Chatbots/DESIGN,  ARCHITECUTRE, AND  APPLICATIONS.md",
     "Untitled 1.canvas"
   ]
 }

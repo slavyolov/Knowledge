@@ -31,3 +31,5 @@
 	-  Tags: #noise, #gausisian , #distribution
 - **[GAM: generalized additive models](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/)**
 	- Tags : #GAM
+- [Gradient Descent](https://builtin.com/data-science/gradient-descent#:~:text=Gradient%20descent%20is%20an%20optimization%20algorithm%20that%27s%20used%20when%20training,function%20to%20its%20local%20minimum.)
+	- Tags : #gradient_descent

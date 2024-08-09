@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBookOpen",
+      "LiLibrary",
       "FarClock",
       "FarBell",
-      "FarFaceLaughSquint",
-      "FarBookmark",
-      "SiPython"
+      "FarFaceLaughSquint"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,5 +27,6 @@
     "iconName": null,
     "inheritanceIcon": "📗"
   },
-  "Master Thesis ideas and plan.md": "FarClock"
+  "Master Thesis ideas and plan.md": "FarClock",
+  "Dictionary.md": "FasBookOpen"
 }
