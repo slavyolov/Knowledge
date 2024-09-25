@@ -40,6 +40,11 @@
 		- **Concerns**: The strategy risks overfitting or ignoring less contributing data.
 		- **Addressed**: LightGBM features mechanisms like `max-depth` control, minimum data points needed for a split, and leaf-wise technique subsampling.
 - https://www.researchgate.net/publication/321766964/figure/fig2/AS:11431281211892503@1702502449355/Illustration-of-level-wise-and-leaf-wise-tree-growth-approaches-for-gradient-boosted.tif
+
+**Parameters :** 
+- [monotone_constraints](https://lightgbm.readthedocs.io/en/latest/Parameters.html#monotone_constraints)
+- 
+
 # Examples :
 
 - [LightGBM/examples/python-guide at master · microsoft/LightGBM · GitHub](https://github.com/microsoft/LightGBM/tree/master/examples/python-guide)
