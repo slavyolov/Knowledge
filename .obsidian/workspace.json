@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AB testing/Bayes AB testing.md",
+                "file": "Bayesian statistics/Bayes AB testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AB testing/Bayes AB testing.md",
+                "file": "Bayesian statistics/Bayes AB testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AB testing/Bayes AB testing.md"
+                "file": "Bayesian statistics/Bayes AB testing.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AB testing/Bayes AB testing.md",
+                "file": "Bayesian statistics/Bayes AB testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,12 +168,13 @@
   },
   "active": "b2565530d00cb78d",
   "lastOpenFiles": [
+    "Bayesian statistics/PYMC.md",
+    "Bayesian statistics/Resources.md",
+    "Bayesian statistics/Bayes AB testing.md",
     "Clustering/Clustering information.md",
     "Reinforcement Learning/Reinforcement Learning.md",
-    "AB testing/Bayes AB testing.md",
     "Dictionary.md",
     "Information Entropy and Information gain and.md",
-    "AB testing/PYMC.md",
     "Tree Based Algorithms/LGBM/LGBM Resources.md",
     "Tree Based Algorithms/LGBM/Resources/pruning.webp",
     "Tree Based Algorithms/LGBM/Resources/decision-tree-classification-algorithm2.png",
@@ -204,7 +205,6 @@
     "Untitled 4.md",
     "AB testing",
     "2024-06-11.md",
-    "Pricing/Reading list.md",
     "Transportation problem (Транспортна задача)/Resources/transportation_problem.png",
     "Gen AI/Courses/Resources/prompts_and_completions.png",
     "Gen AI/Courses/Resources/positional_encoding.png",

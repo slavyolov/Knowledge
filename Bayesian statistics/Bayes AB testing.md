@@ -26,4 +26,4 @@
 - [Count Bayesie - A Probability Blog](https://www.countbayesie.com/)
 
 # Tags
-#prior , #posterior, #likelihood , #bayes , #bayesian_statistics , #ab-testing, 
+#prior , #posterior, #likelihood , #bayes , #bayesian_statistics , #ADF , #A/B_testing
