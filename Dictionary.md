@@ -16,20 +16,50 @@
 - **Constant elasticity model (log-log model)**
 	- [Chapter 8 Specifying Models | R Companion to Real Econometrics (bookdown.org)](https://bookdown.org/carillitony/bailey/chp7.html)
 - **Bayesian statistics**
-	- Tags : #bayes #bayesian_statistics
+	- Tags : #bayes #bayesian_statistics, #informative_prior, #uninformative_prior
 	- [Chapter 1 The Basics of Bayesian Statistics | An Introduction to Bayesian Thinking (statswithr.github.io)](https://statswithr.github.io/book/the-basics-of-bayesian-statistics.html#bayes-rule)
 	- Prior distribution 
 		- The prior is sometimes described as the “belief” about the data. This means that we choose the prior according to our knowledge of the data.
 		- [Bayesian method (1). The prior distribution | by Xichu Zhang | Towards Data Science](https://towardsdatascience.com/bayesian-method-1-1cbdb1e6b4)
 		- [transparencias (uc3m.es)](https://halweb.uc3m.es/esp/Personal/personas/mwiper/docencia/English/PhD_Bayesian_Statistics/ch5_2009.pdf)
-			- #uniform_prior 
 - [Logistic function](https://en.wikipedia.org/wiki/Logistic_function)
 	- A **logistic function** or **logistic curve** is a common S-shaped curve ([sigmoid curve](https://en.wikipedia.org/wiki/Sigmoid_function "Sigmoid function")) with the equation
 - **µ - population mean**
 - **[Gaussian Distribution and Gaussian Noise](https://samanemami.medium.com/the-role-of-the-gaussian-distribution-in-machine-learning-5b1c04f87967)**
 	- Adding Gaussian noise to data involves introducing random variations following a Gaussian or normal distribution. The process involves generating random numbers from a Gaussian distribution and adding them to the original data points. **The mean and standard deviation of the Gaussian distribution determine the characteristics of the added noise**. The mean of the Gaussian noise determines the shift or offset applied to the data, while the standard deviation controls the spread or magnitude of the noise.
 	-  Tags: #noise, #gausisian , #distribution
-- **[GAM: generalized additive models](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/)**
+- [GAM: generalized additive models](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/)
 	- Tags : #GAM
 - [Gradient Descent](https://builtin.com/data-science/gradient-descent#:~:text=Gradient%20descent%20is%20an%20optimization%20algorithm%20that%27s%20used%20when%20training,function%20to%20its%20local%20minimum.)
 	- Tags : #gradient_descent
+- [Variance](https://www.investopedia.com/terms/v/variance.asp)
+	- Variance is a statistical measurement of the spread between numbers in a data set. It measures how far each number in the set is from the [mean](https://www.investopedia.com/terms/m/mean.asp) (average), and thus from every other number in the set
+	- Tags : #variance
+- [Standard Deviation](https://www.investopedia.com/terms/s/standarddeviation.asp)
+	- The [square root of the variance](https://www.investopedia.com/ask/answers/021215/what-difference-between-standard-deviation-and-variance.asp) is the [standard deviation](https://www.investopedia.com/terms/s/standarddeviation.asp) (SD or σ)
+	- Standard deviation measures how much the values in a dataset deviate or vary from the average (mean) of that dataset. It measures the spread or dispersion of the data points
+	- **Low standard deviation** - datapoints are close to the mean. Indicating less variability
+	- **High standard deviation** - datapoints are more spread out from the mean. Showing higher variability
+	- Tags : #standard_deviation
+- [Covariance](https://www.indeed.com/career-advice/career-development/how-to-calculate-covariance)
+	- Covariance is a measurement used in statistics to determine if two variables are changing in the same direction. 
+	- It is a measurement of the difference between the two variables, **and the two variables used to determine covariance are unrelated**.
+	- [How To Calculate Covariance](https://www.indeed.com/career-advice/career-development/how-to-calculate-covariance)
+	- Tags : #covariance
+- [Covariance Matrix](https://www.cuemath.com/algebra/covariance-matrix/)
+	- Covariance matrix is a [square matrix](https://www.cuemath.com/algebra/square-matrix/) that displays the **variance** exhibited by elements of datasets and the **covariance** between a pair of datasets.
+	- Variance of two datasets A = {3, 2} and B = {7, 4} is for A = 0.25 and for B = 2.25 (*using var.p)
+	- Covariance of the two datasets is 0.75
+	- The covariance matrix is :
+	- $$ \begin{array}{cc} 0.25 &0.75 \\ 0.75 & 2.25 \end{array} $$
+	- Variance covariance matrix is defined as a square [matrix](https://www.cuemath.com/algebra/solve-matrices/) where the diagonal elements represent the [variance](https://www.cuemath.com/data/variance/) and the off-diagonal elements represent the covariance. The covariance between two variables can be positive, negative, and zero. A positive covariance indicates that the two variables have a positive relationship whereas negative covariance shows that they have a negative relationship. If two elements do not vary together then they will display a zero covariance.
+	- Tags : #covariance, #variance, #covariance_matrix
+- Feature matrix
+	- Feature matrix is typically a 2D array (matrix) with shape (n_samples, n_features)
+		- n_samples - number of data points (rows in the dataset)
+		- n_features - number of independent variables or covariates (columns in the matrix)
+	- The first column often contains all 1s (this is called the **intercept** or **bias term**)
+	- The following columns represent the features that may influence the target (e.g **covariates**)
+	- Tags : #feature_matrix, #intercept, #bias_term
+- Intercept
+- Bias term

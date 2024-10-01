@@ -8,163 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edb3882abbdfebe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear models/Assumptions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "688236e7174cfc62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning/Multi armed bandits/Papers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37ad7287f85ccd80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "XAI - Model analysis/SHAP post hoc model analysis.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06e19b9a31506bfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree Based Algorithms/LGBM/LGBM Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ca63226423a69f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AB testing/PYMC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa865e9d6d5526ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transportation problem (Транспортна задача)/Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9a9354cf0d85186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gen AI/Courses/Generative AI with Large Language Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd0ee4cb5776dbea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gen AI/Courses/Generative AI with Large Language Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9091c1f8775ab268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a98286e83a448455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clustering/Clustering information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "838717623673bb6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning/Reinforcement Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b2565530d00cb78d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "415e4e6f8e2cf00f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Information Entropy and Information gain and.md",
+                "file": "AB testing/Bayes AB testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AB testing/PYMC.md",
+                "file": "AB testing/Bayes AB testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AB testing/PYMC.md"
+                "file": "AB testing/Bayes AB testing.md"
               }
             }
           },
@@ -283,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AB testing/PYMC.md",
+                "file": "AB testing/Bayes AB testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,9 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ca63226423a69f2",
+  "active": "b2565530d00cb78d",
   "lastOpenFiles": [
+    "Clustering/Clustering information.md",
+    "Reinforcement Learning/Reinforcement Learning.md",
     "AB testing/Bayes AB testing.md",
+    "Dictionary.md",
+    "Information Entropy and Information gain and.md",
     "AB testing/PYMC.md",
     "Tree Based Algorithms/LGBM/LGBM Resources.md",
     "Tree Based Algorithms/LGBM/Resources/pruning.webp",
@@ -325,8 +184,6 @@
     "Resources",
     "T.md",
     "Tree Based Algorithms",
-    "Dictionary.md",
-    "Information Entropy and Information gain and.md",
     "Gen AI/Courses/Generative AI with Large Language Models.md",
     "Gen AI/Retrieval-Augmented Generation (RAG).md",
     "Gen AI/Curated list of applications.md",
@@ -337,7 +194,6 @@
     "Statistical Dictionary.md",
     "2023-02-09.md",
     "~$test_excel.xlsx",
-    "Reinforcement Learning/Reinforcement Learning.md",
     "Linear models/Assumptions.md",
     "XAI - Model analysis/SHAP post hoc model analysis.md",
     "Tree Based Algorithms/LGBM",
@@ -349,7 +205,6 @@
     "AB testing",
     "2024-06-11.md",
     "Pricing/Reading list.md",
-    "Transportation problem (Транспортна задача)/Notes.md",
     "Transportation problem (Транспортна задача)/Resources/transportation_problem.png",
     "Gen AI/Courses/Resources/prompts_and_completions.png",
     "Gen AI/Courses/Resources/positional_encoding.png",
