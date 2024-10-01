@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree Based Algorithms/LGBM/LGBM Resources.md",
+                "file": "AB testing/PYMC.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree Based Algorithms/LGBM/LGBM Resources.md",
+                "file": "AB testing/PYMC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree Based Algorithms/LGBM/LGBM Resources.md"
+                "file": "AB testing/PYMC.md"
               }
             }
           },
@@ -283,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree Based Algorithms/LGBM/LGBM Resources.md",
+                "file": "AB testing/PYMC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,9 +313,11 @@
   },
   "active": "4ca63226423a69f2",
   "lastOpenFiles": [
+    "AB testing/Bayes AB testing.md",
+    "AB testing/PYMC.md",
+    "Tree Based Algorithms/LGBM/LGBM Resources.md",
     "Tree Based Algorithms/LGBM/Resources/pruning.webp",
     "Tree Based Algorithms/LGBM/Resources/decision-tree-classification-algorithm2.png",
-    "Tree Based Algorithms/LGBM/LGBM Resources.md",
     "Tree Based Algorithms/Resources/Bagging-Boosting.jpg",
     "Tree Based Algorithms/Bagging vs Boosting.md",
     "Tree Based Algorithms/Resources",
@@ -341,7 +343,6 @@
     "Tree Based Algorithms/LGBM",
     "XAI - Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
     "Master Thesis ideas and plan.md",
-    "AB testing/Bayes AB testing.md",
     "Logarithms.md",
     "Toolset.md",
     "Untitled 4.md",
