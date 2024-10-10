@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Dictionary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6b6d627a8597ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Bayesian statistics/Bayes AB testing.md",
                 "mode": "source",
                 "source": false
@@ -93,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bayesian statistics/Bayes AB testing.md",
+                "file": "Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bayesian statistics/Bayes AB testing.md"
+                "file": "Dictionary.md"
               }
             }
           },
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bayesian statistics/Bayes AB testing.md",
+                "file": "Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,12 +180,12 @@
   },
   "active": "b2565530d00cb78d",
   "lastOpenFiles": [
+    "Bayesian statistics/Bayes AB testing.md",
+    "Dictionary.md",
     "Bayesian statistics/PYMC.md",
     "Bayesian statistics/Resources.md",
-    "Bayesian statistics/Bayes AB testing.md",
     "Clustering/Clustering information.md",
     "Reinforcement Learning/Reinforcement Learning.md",
-    "Dictionary.md",
     "Information Entropy and Information gain and.md",
     "Tree Based Algorithms/LGBM/LGBM Resources.md",
     "Tree Based Algorithms/LGBM/Resources/pruning.webp",

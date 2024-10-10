@@ -63,3 +63,9 @@
 	- Tags : #feature_matrix, #intercept, #bias_term
 - Intercept
 - Bias term
+- Multivariate Normal Distribution
+	- Generalizes the univariate normal distribution to multiple dimensions, where each dimension represents a different variable (or feature). 
+	- Instead of having a single mean and variance, the multivariate normal distribution has a **mean vector** and a **covariance matrix**
+	- In bayesian statistics :
+		- mean vector (mu) - prior belief of the expected value of the beta coefficient for each variable (For example, if we have three variables **mu** could be defined as [1, 1, 1]. Which means that before seeng the data we expect the mean value of our variables to be equal to 1)
+		- 
