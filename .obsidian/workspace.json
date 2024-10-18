@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b3f1d56deec7f056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bayesian statistics/Bayes AB testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f6b6d627a8597ae5",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "transformer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,8 +195,12 @@
   "lastOpenFiles": [
     "Bayesian statistics/Bayes AB testing.md",
     "Dictionary.md",
-    "Bayesian statistics/PYMC.md",
+    "Gen AI/Courses/Generative AI with Large Language Models.md",
+    "Gen AI/🔥 Hugging Face.md",
     "Bayesian statistics/Resources.md",
+    "Bayesian statistics/PYMC.md",
+    "Various/Web Development.md",
+    "Various",
     "Clustering/Clustering information.md",
     "Reinforcement Learning/Reinforcement Learning.md",
     "Information Entropy and Information gain and.md",
@@ -197,10 +214,8 @@
     "Resources",
     "T.md",
     "Tree Based Algorithms",
-    "Gen AI/Courses/Generative AI with Large Language Models.md",
     "Gen AI/Retrieval-Augmented Generation (RAG).md",
     "Gen AI/Curated list of applications.md",
-    "Gen AI/🔥 Hugging Face.md",
     "Gen AI/Courses/Resources/attention_map.png",
     "Tree Based Algorithms/LGBM/Resources",
     "Neural Networks/Guides.md",
@@ -216,7 +231,6 @@
     "Toolset.md",
     "Untitled 4.md",
     "AB testing",
-    "2024-06-11.md",
     "Transportation problem (Транспортна задача)/Resources/transportation_problem.png",
     "Gen AI/Courses/Resources/prompts_and_completions.png",
     "Gen AI/Courses/Resources/positional_encoding.png",
@@ -225,7 +239,6 @@
     "Gen AI/Courses/Resources/attention_weights.png",
     "Transportation problem (Транспортна задача)",
     "Gen AI/Courses/Resources/Positional_encoding_matrix_example.png",
-    "Gen AI/Courses/Resources/trf_step1_tokenization.textClipping",
     "Untitled 1.canvas"
   ]
 }

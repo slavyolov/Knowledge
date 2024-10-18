@@ -1,6 +1,19 @@
 
 # Resources :
 
+- Bayesian AB Testing - https://towardsdatascience.com/bayesian-ab-testing-ed45cc8c964d
+	- Using control variables
+	- pre-treatment period: this should be included in the model as a control variable, it's completely unrelated to the prior. Mu und sigma of the prior are defined by the fact that we're using an uninformative prior.
+	- Testing two versions of a website. Here are the equivalents between the article and our analysis:
+		- y - ad revenue: 
+			- for us : average daily loss in percent during test period
+		- X - past ad revenue: 
+			- for us average daily loss in percent before the test period (pre treatment)
+		- D - two versions of the website (infinite scrolling yes/no): 
+			- for us, test vs. control group
+
+**Other links**
+
 - [How to Make More Money With Bayesian A/B Test Evaluation (cxl.com)](https://cxl.com/blog/bayesian-ab-test-evaluation/)
 - [Essential AB Testing Terms | Dennis Meisner | Product Coalition](https://productcoalition.com/the-ab-testing-dictionary-a565acf6d260)
 - [Bayesian statistics - ModelAssist ® - Model Assist (epixanalytics.com)](https://modelassist.epixanalytics.com/space/EA/26575367/Bayesian+statistics)

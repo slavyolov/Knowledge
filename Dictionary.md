@@ -68,4 +68,60 @@
 	- Instead of having a single mean and variance, the multivariate normal distribution has a **mean vector** and a **covariance matrix**
 	- In bayesian statistics :
 		- mean vector (mu) - prior belief of the expected value of the beta coefficient for each variable (For example, if we have three variables **mu** could be defined as [1, 1, 1]. Which means that before seeng the data we expect the mean value of our variables to be equal to 1)
+- ======Web Development======
+	- **HTTP** 
+		- https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
+		- **HTTP** (Hyper Text Transfer protoccol) is a [protocol](https://developer.mozilla.org/en-US/docs/Glossary/Protocol) for fetching resources such as HTML documents. It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser.
+		
+		- **Clients** and **servers** communicate by exchanging individual messages (as opposed to a stream of data). 
+		- **Client** sends **requests**
+		- The messages send by the **server** as an answer are called **_responses_**.
+		- We can use the HTTP protocol to transfer data. The most popular technology for this purpose is JSON
+		- Tags: #http, #web_development
+	- **TCP**
+		- https://developer.mozilla.org/en-US/docs/Glossary/TCP
+		- **TCP (Transmission Control Protocol)** is an important network [protocol](https://developer.mozilla.org/en-US/docs/Glossary/Protocol) that lets two hosts connect and exchange data streams. TCP guarantees the delivery of data and packets in the same order as they were sent.
+		- Tags: #tcp, #web_development 
+	- **TLS / SSL**
+		- https://developer.mozilla.org/en-US/docs/Glossary/TLS
+		- **Transport Layer Security (TLS)**, formerly known as [Secure Sockets Layer (SSL)](https://developer.mozilla.org/en-US/docs/Glossary/SSL), is a [protocol](https://developer.mozilla.org/en-US/docs/Glossary/Protocol) used by applications to communicate securely across a network, preventing tampering with and eavesdropping on email, web browsing, messaging, and other protocols. individual digital certificates.
+		- Tags: #tls, #ssl
+	- **Client**
+		- The _user-agent_ is any tool that acts on behalf of the user. This role is primarily performed by the Web browser
+		- The browser is **always** the entity initiating the request.
+		- To display a Web page, the browser sends an original request to fetch the HTML document that represents the page.  It then parses this file, making additional requests corresponding to execution scripts, layout information (CSS) to display, and sub-resources contained within the page (usually images and videos). The Web browser then combines these resources to present the complete document, the Web page
+		- A Web page is a hypertext document. This means some parts of the displayed content are links, which can be activated (usually by a click of the mouse) to fetch a new Web page, allowing the user to direct their user-agent and navigate through the Web. The browser translates these directions into HTTP requests, and further interprets the HTTP responses to present the user with a clear response.
+	- **Server**
+		- On the opposite side of the communication channel is the server, which _serves_ the document as requested by the client. A server appears as only a single machine virtually; but it may actually be a collection of servers sharing the load (load balancing), or other software (such as caches, a database server, or e-commerce servers)
+	- **OSI model and the HTTP protocol**
+		- There are seven layers, each of them performs the task independently
+		- https://arshadsuraj.medium.com/overview-osi-model-http-protocol-5173684f2491
+	- **WSGI**
+		- Web Server Gateway Interface (WSGI) is a simple [calling convention](https://en.wikipedia.org/wiki/Calling_convention "Calling convention") for [web servers](https://en.wikipedia.org/wiki/Web_server "Web server") to forward requests to [web applications](https://en.wikipedia.org/wiki/Web_application "Web application") or [frameworks](https://en.wikipedia.org/wiki/Web_framework "Web framework") written in the [Python programming language](https://en.wikipedia.org/wiki/Python_(programming_language) "Python (programming language)")
+		- https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface
+		- https://gunicorn.org/
+	- **ASGI**
+		- So, after the **asyncio** API became popular, the **ASGI specification** emerged as an alternative of WSGI, that leverages the new API as much as possible. We see now a new generation of **base and application development servers:**
+			- As base server, we use [uvicorn](https://www.uvicorn.org/)
+			- For application development, we use [FastAPI](https://fastapi.tiangolo.com/)
+	- **REST API**
+		- The REST API pattern was developed to build large enterprise software as a service, and it defines some standards on how to make an easy to consume API over the HTTP protocol.
+		- A REST API follows the design principles of the REST architectural style. **REST is short for representational state transfer**, and is a set of rules and guidelines about how you should build a web API.
+		- https://blog.stoplight.io/api-design-patterns-for-rest-web-services
+	- **HTTP Methods**
+		- **GET**: read data from your API
+		- **POST**: add _new data_ to your API
+		- **PUT**: update _existing data_ with your API
+		- **PATCH**: updates a _subset of existing data_ with your API
+		- **DELETE**: remove data (usually a single resource) from your API
+	- **Fast API**
+		- Web framework for ASGI application development
+		- **FastAPI depends heavily on Pydantic.** Meaning all the Request and Response payload serialization/desserialization is handled by defining Pydantic model classes
+	- 
+- ===Other===
+	- **Shadow deployment**
+		- is a [software deployment practice](https://codefresh.io/learn/software-deployment/) where any changes to a software application are deployed in a parallel environment that mimics the production environment. The deployed changes are not visible to the end-users, hence the term “shadow.” This hidden deployment enables us to observe the behavior and impact of the changes without causing any disruption to the live application.
+		- **Gunicorn** 'Green Unicorn' is a Python WSGI HTTP Server for UNIX. It's a pre-fork worker model. The Gunicorn server is broadly compatible with various web frameworks, simply implemented, light on server resources, and fairly speedy.
+			- https://devops.com/what-is-a-shadow-deployment/
+	- Idempotent
 		- 
