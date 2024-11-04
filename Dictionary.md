@@ -117,7 +117,13 @@
 	- **Fast API**
 		- Web framework for ASGI application development
 		- **FastAPI depends heavily on Pydantic.** Meaning all the Request and Response payload serialization/desserialization is handled by defining Pydantic model classes
-	- 
+	- **CORSMiddleware**
+		- CORSMiddleware is a component in web frameworks like FastAPI that enables and configures Cross-Origin Resource Sharing (CORS) for web applications. CORSMiddleware allows you to configure how your web API handles cross-origin requests from browsers. It implements the CORS protocol, which permits controlled access to resources on a different domain than the one serving the web page.
+		- https://www.perplexity.ai/search/what-is-corsmiddleware-LGQinDvAQcOFCmWYbNsDLw
+		- *Tips :* 
+			- Avoid using `allow_origins=["*"]` in production, as it allows any origin
+			- Only allow specific origins, methods, and headers needed by your application
+			- Be cautious when allowing credentials, as it can increase security risks
 - ===Other===
 	- **Shadow deployment**
 		- is a [software deployment practice](https://codefresh.io/learn/software-deployment/) where any changes to a software application are deployed in a parallel environment that mimics the production environment. The deployed changes are not visible to the end-users, hence the term “shadow.” This hidden deployment enables us to observe the behavior and impact of the changes without causing any disruption to the live application.
