@@ -127,7 +127,7 @@
 - ===Other===
 	- **Shadow deployment**
 		- is a [software deployment practice](https://codefresh.io/learn/software-deployment/) where any changes to a software application are deployed in a parallel environment that mimics the production environment. The deployed changes are not visible to the end-users, hence the term “shadow.” This hidden deployment enables us to observe the behavior and impact of the changes without causing any disruption to the live application.
-		- **Gunicorn** 'Green Unicorn' is a Python WSGI HTTP Server for UNIX. It's a pre-fork worker model. The Gunicorn server is broadly compatible with various web frameworks, simply implemented, light on server resources, and fairly speedy.
-			- https://devops.com/what-is-a-shadow-deployment/
+	- **Gunicorn** 'Green Unicorn' is a Python WSGI HTTP Server for UNIX. It's a pre-fork worker model. The Gunicorn server is broadly compatible with various web frameworks, simply implemented, light on server resources, and fairly speedy.
+		- https://devops.com/what-is-a-shadow-deployment/
 	- Idempotent
 		- 
