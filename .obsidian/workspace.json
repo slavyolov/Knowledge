@@ -77,8 +77,7 @@
               "title": "Bayes AB testing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,10 +242,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aff1fafcd1c73235",
+  "active": "b2565530d00cb78d",
   "lastOpenFiles": [
-    "Dictionary.md",
     "Interview structure Software Eng.md",
+    "Dictionary.md",
     "Postgres.md",
     "Bayesian statistics/Bayes AB testing.md",
     "Gen AI/Courses/Generative AI with Large Language Models.md",

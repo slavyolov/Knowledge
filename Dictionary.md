@@ -130,4 +130,8 @@
 	- **Gunicorn** 'Green Unicorn' is a Python WSGI HTTP Server for UNIX. It's a pre-fork worker model. The Gunicorn server is broadly compatible with various web frameworks, simply implemented, light on server resources, and fairly speedy.
 		- https://devops.com/what-is-a-shadow-deployment/
 	- Idempotent
-		- 
+	- **Postmortem report** is a collaborative reflection that allows a team to assess the successes, challenges, and failures of a particular project after it is completed
+	
+- Curve fitting
+	- https://www.desmos.com/calculator/ihbszeyvhi
+	- https://www.desmos.com/calculator/bw2hkwvokg
