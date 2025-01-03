@@ -68,6 +68,10 @@
 	- Instead of having a single mean and variance, the multivariate normal distribution has a **mean vector** and a **covariance matrix**
 	- In bayesian statistics :
 		- mean vector (mu) - prior belief of the expected value of the beta coefficient for each variable (For example, if we have three variables **mu** could be defined as [1, 1, 1]. Which means that before seeng the data we expect the mean value of our variables to be equal to 1)
+- Stratum / strata (pl) 
+	- In statistics, a stratum (plural strata) refers to **a subset (part) of the population (entire collection of items under consideration) which is being sampled**. Stratification thus consists of dividing the population into strata within each of which an independent sample can be chosen.
+
+
 - ======Web Development======
 	- **HTTP** 
 		- https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
@@ -131,7 +135,7 @@
 		- https://devops.com/what-is-a-shadow-deployment/
 	- Idempotent
 	- **Postmortem report** is a collaborative reflection that allows a team to assess the successes, challenges, and failures of a particular project after it is completed
-	
+
 - Curve fitting
 	- https://www.desmos.com/calculator/ihbszeyvhi
 	- https://www.desmos.com/calculator/bw2hkwvokg
