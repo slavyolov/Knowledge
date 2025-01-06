@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary.md",
+                "file": "Mlflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dictionary"
+              "title": "Mlflow"
             }
           },
           {
@@ -256,8 +256,9 @@
   },
   "active": "b2565530d00cb78d",
   "lastOpenFiles": [
-    "Interview structure Software Eng.md",
+    "VIF.md",
     "Dictionary.md",
+    "Interview structure Software Eng.md",
     "Postgres.md",
     "Bayesian statistics/Bayes AB testing.md",
     "Gen AI/Courses/Generative AI with Large Language Models.md",
@@ -292,7 +293,6 @@
     "Tree Based Algorithms/LGBM",
     "XAI - Model analysis/SHAP analysis demo code run in databricks 12.2 ML LTS.md",
     "Master Thesis ideas and plan.md",
-    "Logarithms.md",
     "AB testing",
     "Transportation problem (Транспортна задача)/Resources/transportation_problem.png",
     "Gen AI/Courses/Resources/prompts_and_completions.png",
