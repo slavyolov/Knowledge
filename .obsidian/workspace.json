@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/direnv.md",
+                "file": "Tools/Mlflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "direnv"
+              "title": "Mlflow"
             }
           },
           {
@@ -271,8 +271,10 @@
   },
   "active": "b2565530d00cb78d",
   "lastOpenFiles": [
-    "Tools/Flow charts.md",
+    "Tools/Pull Request Checklist.md",
+    "Tools/Mlflow.md",
     "Tools/direnv.md",
+    "Tools/Flow charts.md",
     "Untitled 3.md",
     "Tools/Git.md",
     "Tools/Splunk.md",
@@ -302,10 +304,8 @@
     "T.md",
     "Tree Based Algorithms",
     "Gen AI/Retrieval-Augmented Generation (RAG).md",
-    "Gen AI/Curated list of applications.md",
     "Gen AI/Courses/Resources/attention_map.png",
     "Tree Based Algorithms/LGBM/Resources",
-    "Neural Networks/Guides.md",
     "~$test_excel.xlsx",
     "Tree Based Algorithms/LGBM",
     "AB testing",
