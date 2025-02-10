@@ -43,8 +43,9 @@
 
 **Parameters :** 
 - [monotone_constraints](https://lightgbm.readthedocs.io/en/latest/Parameters.html#monotone_constraints)
-- 
 
+**Distrubuted training**
+- https://lightgbm.readthedocs.io/en/latest/Parallel-Learning-Guide.html#how-distributed-lightgbm-works
 # Examples :
 
 - [LightGBM/examples/python-guide at master · microsoft/LightGBM · GitHub](https://github.com/microsoft/LightGBM/tree/master/examples/python-guide)

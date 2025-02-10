@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Mlflow.md",
+                "file": "Tree Based Algorithms/LGBM/LGBM Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mlflow"
+              "title": "LGBM Resources"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transformer",
+                "query": "LGB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -271,8 +271,9 @@
   },
   "active": "b2565530d00cb78d",
   "lastOpenFiles": [
-    "Tools/Pull Request Checklist.md",
+    "Master Thesis ideas and plan.md",
     "Tools/Mlflow.md",
+    "Tools/Pull Request Checklist.md",
     "Tools/direnv.md",
     "Tools/Flow charts.md",
     "Untitled 3.md",
@@ -303,7 +304,6 @@
     "Resources",
     "T.md",
     "Tree Based Algorithms",
-    "Gen AI/Retrieval-Augmented Generation (RAG).md",
     "Gen AI/Courses/Resources/attention_map.png",
     "Tree Based Algorithms/LGBM/Resources",
     "~$test_excel.xlsx",
