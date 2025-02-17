@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree Based Algorithms/LGBM/LGBM Resources.md",
+                "file": "Tools/0. 🔥 Tools Condensed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LGBM Resources"
+              "title": "0. 🔥 Tools Condensed"
             }
           },
           {
@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -271,14 +271,17 @@
   },
   "active": "b2565530d00cb78d",
   "lastOpenFiles": [
+    "[.md",
+    "Tools/0. 🔥 Tools Condensed.md",
+    "Tools/direnv.md",
+    "Tools/Splunk.md",
+    "Tools/Flow charts.md",
+    "Tree Based Algorithms/LGBM/LGBM Resources.md",
     "Master Thesis ideas and plan.md",
     "Tools/Mlflow.md",
     "Tools/Pull Request Checklist.md",
-    "Tools/direnv.md",
-    "Tools/Flow charts.md",
     "Untitled 3.md",
     "Tools/Git.md",
-    "Tools/Splunk.md",
     "Mlflow.md",
     "VIF.md",
     "Dictionary.md",
@@ -294,15 +297,12 @@
     "Clustering/Clustering information.md",
     "Reinforcement Learning/Reinforcement Learning.md",
     "Information Entropy and Information gain and.md",
-    "Tree Based Algorithms/LGBM/LGBM Resources.md",
     "Tree Based Algorithms/LGBM/Resources/pruning.webp",
     "Tree Based Algorithms/LGBM/Resources/decision-tree-classification-algorithm2.png",
     "Tree Based Algorithms/Resources/Bagging-Boosting.jpg",
     "Tree Based Algorithms/Bagging vs Boosting.md",
     "Tree Based Algorithms/Resources",
-    "Resources/Bagging.md",
     "Resources",
-    "T.md",
     "Tree Based Algorithms",
     "Gen AI/Courses/Resources/attention_map.png",
     "Tree Based Algorithms/LGBM/Resources",
