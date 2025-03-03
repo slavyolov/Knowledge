@@ -13,8 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Tools/1. 🔌 Pycharm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 🔌 Pycharm"
+            }
+          },
+          {
+            "id": "d28db545810d7b99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/1. 🔌 Pycharm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 🔌 Pycharm"
+            }
+          },
+          {
+            "id": "a24286d564fec364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Tools/0. 🔥 Tools Condensed.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. 🔥 Tools Condensed"
+            }
+          },
+          {
+            "id": "1cc183ee153616d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/0. 🔥 Tools Condensed.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -89,7 +131,8 @@
               "title": "Bayes AB testing"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -272,10 +315,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2565530d00cb78d",
+  "active": "1cc183ee153616d4",
   "lastOpenFiles": [
-    "[.md",
+    "Tools/1. 🔌 Pycharm.md",
     "Tools/0. 🔥 Tools Condensed.md",
+    "[.md",
     "Tools/direnv.md",
     "Tools/Splunk.md",
     "Tools/Flow charts.md",
@@ -303,7 +347,6 @@
     "Tree Based Algorithms/LGBM/Resources/pruning.webp",
     "Tree Based Algorithms/LGBM/Resources/decision-tree-classification-algorithm2.png",
     "Tree Based Algorithms/Resources/Bagging-Boosting.jpg",
-    "Tree Based Algorithms/Bagging vs Boosting.md",
     "Tree Based Algorithms/Resources",
     "Resources",
     "Tree Based Algorithms",
