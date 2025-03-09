@@ -178,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LGB",
+                "query": "pull reques",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -317,8 +317,9 @@
   },
   "active": "1cc183ee153616d4",
   "lastOpenFiles": [
-    "Tools/1. 🔌 Pycharm.md",
+    "Tools/3. Pull Request Checklist (Template).md",
     "Tools/0. 🔥 Tools Condensed.md",
+    "Tools/1. 🔌 Pycharm.md",
     "[.md",
     "Tools/direnv.md",
     "Tools/Splunk.md",
@@ -326,7 +327,6 @@
     "Tree Based Algorithms/LGBM/LGBM Resources.md",
     "Master Thesis ideas and plan.md",
     "Tools/Mlflow.md",
-    "Tools/Pull Request Checklist.md",
     "Untitled 3.md",
     "Tools/Git.md",
     "Mlflow.md",
