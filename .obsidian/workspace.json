@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/0. 🔥 Tools Condensed.md",
+                "file": "Unit Testing ML Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. 🔥 Tools Condensed"
+              "title": "Unit Testing ML Models"
+            }
+          },
+          {
+            "id": "40f0d9271c7b4bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/2. ML Libraries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. ML Libraries"
             }
           },
           {
@@ -49,7 +63,8 @@
               "title": "Bayes AB testing"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CDF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,11 +247,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aff1fafcd1c73235",
+  "active": "40f0d9271c7b4bce",
   "lastOpenFiles": [
-    "@Ekc.md",
     "Tools/0. 🔥 Tools Condensed.md",
+    "Tools/2. ML Libraries.md",
+    "Recommendation systems.md",
+    "Unit Testing ML Models.md",
     "Statistical Dictionary.md",
+    "@Ekc.md",
     "@Postgres.md",
     "Interview structure Software Eng.md",
     "@Postgresss.md",
@@ -257,9 +275,6 @@
     "Dictionary.md",
     "Bayesian statistics/Bayes AB testing.md",
     "Gen AI/Courses/Generative AI with Large Language Models.md",
-    "Gen AI/🔥 Hugging Face.md",
-    "Bayesian statistics/Resources.md",
-    "Bayesian statistics/PYMC.md",
     "Various",
     "Tree Based Algorithms/LGBM/Resources/pruning.webp",
     "Tree Based Algorithms/LGBM/Resources/decision-tree-classification-algorithm2.png",
