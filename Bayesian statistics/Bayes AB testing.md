@@ -18,6 +18,7 @@
 - [Essential AB Testing Terms | Dennis Meisner | Product Coalition](https://productcoalition.com/the-ab-testing-dictionary-a565acf6d260)
 - [Bayesian statistics - ModelAssist ® - Model Assist (epixanalytics.com)](https://modelassist.epixanalytics.com/space/EA/26575367/Bayesian+statistics)
 - [Easy as ABC: A Quick Introduction to Bayesian A/B Testing in Python (Will Barker) (youtube.com)](https://www.youtube.com/watch?v=nRLI_KbvZTQ)
+- https://towardsdatascience.com/bayesian-ab-testing-ed45cc8c964d/
 
 
 # In brief

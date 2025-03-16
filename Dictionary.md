@@ -13,6 +13,7 @@
 	- Examples :  one-click pay buttons online and contactless payments in the store.
 - **Parametric families / probability distributions**
 	- [List of probability distributions - Wikipedia](https://en.wikipedia.org/wiki/List_of_probability_distributions)
+	- https://www.semanticscholar.org/paper/A-half-normal-distribution-scheme-for-generating-Wallner/a8dfa082283d646d7aada8a7ba50fb52f4847b42/figure/0
 - **Constant elasticity model (log-log model)**
 	- [Chapter 8 Specifying Models | R Companion to Real Econometrics (bookdown.org)](https://bookdown.org/carillitony/bailey/chp7.html)
 - **Bayesian statistics**
@@ -128,6 +129,11 @@
 			- Avoid using `allow_origins=["*"]` in production, as it allows any origin
 			- Only allow specific origins, methods, and headers needed by your application
 			- Be cautious when allowing credentials, as it can increase security risks
+		- **Nginx**
+			- NGINX is open-source web server software used for reverse proxy, load balancing, and caching. It provides HTTPS server capabilities and is mainly designed for maximum performance and stability. It also functions as a proxy server for email communications protocols, such as IMAP, POP3, and SMTP.
+			- https://www.papertrail.com/solution/guides/nginx/
+			- https://kubernetes.github.io/ingress-nginx/user-guide/ingress-path-matching/#path-priority
+		
 - ===Other===
 	- **Shadow deployment**
 		- is a [software deployment practice](https://codefresh.io/learn/software-deployment/) where any changes to a software application are deployed in a parallel environment that mimics the production environment. The deployed changes are not visible to the end-users, hence the term “shadow.” This hidden deployment enables us to observe the behavior and impact of the changes without causing any disruption to the live application.
@@ -139,3 +145,14 @@
 - Curve fitting
 	- https://www.desmos.com/calculator/ihbszeyvhi
 	- https://www.desmos.com/calculator/bw2hkwvokg
+- Uplift modeling :
+	- https://cs229.stanford.edu/proj2018/poster/296.pdf
+	- https://docs.doubleml.org/tutorial/stable/notebooks/Uplift_example_tools.html
+	- https://www.desmos.com/calculator/bw2hkwvokg
+- Cyclical features :
+	- https://skforecast.org/0.8.1/faq/cyclical-features-time-series
+- SGB :
+	- Stochastic Gradient Boosting : https://campus.datacamp.com/courses/machine-learning-with-tree-based-models-in-python/boosting?ex=9
+- Percentage and percentage point
+	- https://service-manual.ons.gov.uk/content/numbers/percentages#:~:text=A%20percentage%20point%20is%20the,and%20never%20%22%25age%22.
+- 
