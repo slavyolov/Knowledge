@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YouTube/Mr. P Solver.md",
+                "file": "💡 Own content/Articles and guest lectures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mr. P Solver"
+              "title": "Articles and guest lectures"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning/Multi-armed bandits and Contextual Bandits.md",
+                "file": "Past projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multi-armed bandits and Contextual Bandits"
+              "title": "Past projects"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tools co",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -275,13 +275,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d59ce72aa5fa655b",
+  "active": "aa086ba805814d92",
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "Tools/0. 🔥 Tools Condensed.md",
-    "MIXED - know how - hyper links.md",
-    "💡 Own content/Articles and guest lectures.md",
     "Reinforcement Learning/Multi-armed bandits and Contextual Bandits.md",
+    "💡 Own content/Articles and guest lectures.md",
+    "Tools/0. 🔥 Tools Condensed.md",
+    "YouTube/Mr. P Solver.md",
+    "MIXED - know how - hyper links.md",
+    "Past projects.md",
     "💡 Own content/Master thesis.md",
     "Books/Forecasting - Principles and Practice (3rd ed).md",
     "Bayesian statistics/Resources.md",
@@ -292,7 +293,6 @@
     "GIT/GitHub.md",
     "Tools/4. ML - Feature Engineering.md",
     "Tools/2. ML Libraries.md",
-    "YouTube/Mr. P Solver.md",
     "Reinforcement Learning/Multi armed bandits/Papers.md",
     "YouTube",
     "Untitled",
